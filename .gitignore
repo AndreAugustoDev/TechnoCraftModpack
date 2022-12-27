@@ -4,4 +4,4 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
-/config/byg/*/*.zip
+/config/byg/backups/*
