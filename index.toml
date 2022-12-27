@@ -3895,6 +3895,11 @@ hash = "207431771bbec0e8c8d2b67e21d3ad92c133fef901e2febcb19e14a4f26c2b0d"
 metafile = true
 
 [[files]]
+file = "mods/additional-banners.pw.toml"
+hash = "f24000568e9419ae29cbfc2d7a698e718bf7e880f96085dfe5cf88e1517e6040"
+metafile = true
+
+[[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "557a0819c658d6c4a4a9f08c05a6eec1d7a288a9ad2ce86e295abbf899d3daf1"
 metafile = true
