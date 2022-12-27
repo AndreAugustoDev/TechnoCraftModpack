@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/static.yml"
+hash = "f663fc0cb3d8ce2bf754f250e2a145767ec0c5f46fab7f845f556805fcc37980"
+
+[[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "ed22a8214b8c187add7f017c8aafb313f7cb3179ea71277ee1aaf791bf7e5086"
 
@@ -239,10 +243,6 @@ hash = "cba08a6be8f28b7b17842b33995e96335d0b50e6d7b02b4a88bb34115d4ac50e"
 [[files]]
 file = "config/almostunified/duplicates.json"
 hash = "153d252f0802b79517673c25c891c72b1e52566d7dac172832c6a83cfc224a90"
-
-[[files]]
-file = "config/almostunified/duplicates.json.bak"
-hash = "6d1e9bfcbdec70dc17d85240670da7ec814ed68f736710c1ac13e713a00ba586"
 
 [[files]]
 file = "config/almostunified/startup.json"
@@ -859,10 +859,6 @@ hash = "584d98239b467824f653c4413426955f68ebaefe219765d06b4453ae8d780629"
 [[files]]
 file = "config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
-
-[[files]]
-file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "c1f48dded951825a4bee1ae7703000944412336e033fdb4dcacc30b6d3bb9d02"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
