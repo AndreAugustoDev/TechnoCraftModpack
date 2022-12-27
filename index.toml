@@ -1933,24 +1933,28 @@ file = "config/jeed-client.toml"
 hash = "a564344d0fda96fb32100c1e8eb6844882be9d83278fa9b7c2cd2ff6e7b7ea66"
 
 [[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "3e0b832afaa29fddd76799415be9aa423e22846cba50042e523771c0373ea4d7"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "9d94f6dff7e85c44efba69a7c6cfbfb273c9fd9d083dcb1959dcb916f7ea2e9d"
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "b91d326e0aeac793268bc200f9ed4a564ce686dbb19a20c5704e4dde50ff8bfa"
+hash = "d36157dc3d00128cdcf038ce189d5c5ce946b3a0ea597cd6045c852e8eb6f5ee"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "0c333733f16aed8b8e8846f5da4ffcf79fb5ccbf428711077405920aea6ee723"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "24323b5f7fac80c6432ffab87c5b5b67276fdca185b5602c3cd51b0ef85f63d6"
-
-[[files]]
-file = "config/jei/world/local/New_World/bookmarks.ini"
-hash = "6366a43b399258b672522079cd16ba7b7c265ec0acd6dc567ef266152237bad2"
+hash = "f07420c28821341c7b85b7dc540b0ab4d83ba871e6e3025bb0731c94e5aca2d8"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -2087,10 +2091,6 @@ hash = "7922f789cf41444b7ce28bcc7df415f94b765e9a01a817ea468487ca539dc3fc"
 [[files]]
 file = "config/modularrouters-common.toml"
 hash = "16030ba31698df22a15b9d913cf6b2e027a799e0a9e551fc17adc4ab9050e37b"
-
-[[files]]
-file = "config/moreoverlays.toml"
-hash = "ebfb30b4f6ca01e7f9feb0532fee9442c4ec1d3ff25df446d90b57d7de1f28ba"
 
 [[files]]
 file = "config/morevanillalib/features.json5"
@@ -4691,7 +4691,7 @@ metafile = true
 
 [[files]]
 file = "mods/elemental-craft.pw.toml"
-hash = "924c58ed396df0c36c18f272b5af8eb9d55a17ab49c03380ff7412dfa431b429"
+hash = "fc229fc53c8c8bc339d73efa5455ce47340be47814d42009fef53159685ecde9"
 metafile = true
 
 [[files]]
@@ -4881,7 +4881,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "682354aa2bd563d8b5fc66b77edc17458c32cbbc132586e6944e5aff8d2ec338"
+hash = "327a7b3255c51b7e3f4ff1c0ad3ebcb73bb8f9857466c774fcb076b5353c2cbd"
 metafile = true
 
 [[files]]
@@ -4951,7 +4951,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "3569ea33ef65cbc4bd1a45182f04348b70ead0dbde80ee8045c65ca0cbf56013"
+hash = "5e988c092338dcb38e577419e755ef6df21318aed9ad2436f2267fec2f092c27"
 metafile = true
 
 [[files]]
@@ -5520,11 +5520,6 @@ hash = "16c597e49a1256a80ffd1997c61c6a94477b3e8a702684df41b241fa77927226"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "e862b4a321c03de62d73f3dca141c4a48eae3f1826e07da9877d75328d579b95"
-metafile = true
-
-[[files]]
 file = "mods/morejs.pw.toml"
 hash = "a87a080120532ecbf1d7f1c36ab87addda55e0336fd5951f55393452cbbc5c88"
 metafile = true
@@ -5871,7 +5866,7 @@ metafile = true
 
 [[files]]
 file = "mods/rebornstorage.pw.toml"
-hash = "4c6a3baa98a13392a40fdd2beff61ea47fec2805defcfcddb755738d20469c18"
+hash = "7915fe77e7e405abb72e865b9b212ff57ef507ced9f6cdf86b5dd52da8cde5d6"
 metafile = true
 
 [[files]]
@@ -6191,7 +6186,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6dbcebd08c678e7e06dc2c7697650129abff7f62ffb04a6d062afe47eaff3cd5"
+hash = "688081136804287f0a3e7fb461fbce4689eee43a1a42c377172a1aa23e9cdc35"
 metafile = true
 
 [[files]]
@@ -6346,7 +6341,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilitix.pw.toml"
-hash = "943420f3dd4749c52260eb45cff658ac7fab0a4bb451c3a581983a2301b4a36c"
+hash = "6acc1cc1a1817985659dc38bd098e7526b0713bef5e9bed5e284d93c4620c0ee"
 metafile = true
 
 [[files]]
