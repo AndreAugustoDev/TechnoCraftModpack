@@ -1,0 +1,13 @@
+name = "Silent Gear"
+filename = "silent-gear-1.19.2-3.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6e86de6db8bc1d7c453e3e27f72539689eb161d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4259789
+project-id = 297039

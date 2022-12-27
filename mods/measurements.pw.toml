@@ -1,0 +1,13 @@
+name = "Measurements"
+filename = "Measurements-1.19.2-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "549bfa395a973a7eeb5a6f069cb6d9d90330da59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4036706
+project-id = 478559

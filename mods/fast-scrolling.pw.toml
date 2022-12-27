@@ -1,0 +1,13 @@
+name = "Fast Scrolling (Forge)"
+filename = "FastScrolling-1.19.2-forge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9cfbfe04bdbfcece4adcf34a10387039f2706b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4086672
+project-id = 701437

@@ -1,0 +1,13 @@
+name = "Lexicon"
+filename = "Lexicon-1.19.2-(v.1.4.0).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b70e2ee2bdc8bc71a4cbed7342d930794fe61453"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4178364
+project-id = 615275

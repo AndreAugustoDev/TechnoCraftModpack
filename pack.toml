@@ -1,0 +1,13 @@
+name = "TechnoCraft"
+author = "André"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "caa53ca059e7d629ab0494f2751b8b59bac751b975b1ddf150fbf49a7a7b1a39"
+
+[versions]
+forge = "43.2.1"
+minecraft = "1.19.2"

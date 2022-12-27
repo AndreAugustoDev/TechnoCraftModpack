@@ -1,0 +1,13 @@
+name = "Gobber Delight (A Farmer's Delight Add-on)"
+filename = "Gobber_Delight_1.1.1_Forge_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce6de1576cd31ef316eb621a459c917b22d6d781"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4040802
+project-id = 624518

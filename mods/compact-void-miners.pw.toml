@@ -1,0 +1,13 @@
+name = "Compact Void Miners"
+filename = "CompactVoidMiners-R1.19.2-1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d7552b9c198abd93c701cae8480676ab632bef5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3934624
+project-id = 395607

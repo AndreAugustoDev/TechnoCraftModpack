@@ -1,0 +1,13 @@
+name = "Wireless Redstone RE"
+filename = "WirelessRedstone-1.19.2-0.1.0b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fabd04f84767e63da0f8429c045157e32a56517d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4022601
+project-id = 409660

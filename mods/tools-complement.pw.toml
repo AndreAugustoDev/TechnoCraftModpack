@@ -1,0 +1,13 @@
+name = "Tool's Complement"
+filename = "tools_complement-1.19.2-3.0.0.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77830005752f0788cc2fe14d35e5e74e02ff23f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4112135
+project-id = 552642

@@ -1,0 +1,13 @@
+name = "Creeper Firework"
+filename = "creeper_firework-1.19.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af7ae7f1ad552df5a44f2a714e637b7bc6f2b991"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3925663
+project-id = 558439

@@ -1,0 +1,13 @@
+name = "LieOnLion's Gilded Armor"
+filename = "GildedArmor-1.1-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5a6ad502f624b9a695ac55f23e78c883ffe9434"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4124757
+project-id = 714218

@@ -1,0 +1,13 @@
+name = "Simple Backups"
+filename = "SimpleBackups-1.19.1-2.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9ab6af1a4c58d4b44247cda68770c363bc0a276"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4193170
+project-id = 583228

@@ -1,0 +1,13 @@
+name = "Just Another Void Dimension"
+filename = "javd-forge-4.0.1-build.2+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b44e2de93a07192ab3b7ba1fa7290c9cd0b0a364"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4035527
+project-id = 370890

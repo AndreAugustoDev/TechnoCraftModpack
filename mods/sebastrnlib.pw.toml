@@ -1,0 +1,13 @@
+name = "SebastrnLib"
+filename = "sebastrnlib-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "896eb50c8bee9028816cab775138f321b09fc6d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4111367
+project-id = 709936

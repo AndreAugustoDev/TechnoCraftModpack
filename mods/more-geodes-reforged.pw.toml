@@ -1,0 +1,13 @@
+name = "More Geodes Reforged"
+filename = "more-geodes-reforged-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ef3cbfb826f6db1a90f06449acc30f719560361"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4193141
+project-id = 698475

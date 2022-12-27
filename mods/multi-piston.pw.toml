@@ -1,0 +1,13 @@
+name = "Multi-Piston"
+filename = "multipiston-1.19.2-1.2.21-ALPHA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c7e62d5d85ed55deb149e064ef9a99c3a7a95e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4128597
+project-id = 303278

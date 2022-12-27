@@ -1,0 +1,13 @@
+name = "Cave Enhancements"
+filename = "cave_enhancements-1.19.2-2.1.7-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03277bff9fc6a4d04139b62ef084bed0acdf82b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4257464
+project-id = 597562

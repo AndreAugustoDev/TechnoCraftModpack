@@ -1,0 +1,13 @@
+name = "Earth2Java"
+filename = "earthtojavamobs-forge-mc1.19.2-1.9.3+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d6cd97f97a43ba9c3fa3ba068ede7cf04177fef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4061273
+project-id = 398022

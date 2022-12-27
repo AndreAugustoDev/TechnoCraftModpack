@@ -1,0 +1,13 @@
+name = "MoreVanillaLib"
+filename = "MoreVanillaLib-1.19.1-4.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c84280341d2c1710dd39a59c3c8b8a2c46c1ee2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3909214
+project-id = 367254

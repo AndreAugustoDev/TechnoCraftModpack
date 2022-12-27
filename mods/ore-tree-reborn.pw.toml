@@ -1,0 +1,13 @@
+name = "Ore Tree:Reborn"
+filename = "OreTree-Forge-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf89ff22fc24c8520d2030241bbc15fbb9d1cb7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062292
+project-id = 557194

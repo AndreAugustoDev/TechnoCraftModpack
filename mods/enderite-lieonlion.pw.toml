@@ -1,0 +1,13 @@
+name = "LieOnLion's Enderite"
+filename = "Enderite-1.5-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbee7b2aa92afbf7dc736b2fc0fb93f6c538b23d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4118976
+project-id = 550532

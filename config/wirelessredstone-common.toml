@@ -1,0 +1,9 @@
+
+#General configuration
+[Common]
+	#Signal strength of redstone receivers
+	#Range: 1 ~ 15
+	redstoneReceiverSignalStrength = 15
+	#Should redstone receivers provider strong power?
+	redstoneReceiverStrongPower = true
+

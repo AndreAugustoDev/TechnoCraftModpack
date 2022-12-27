@@ -1,0 +1,13 @@
+name = "Simply Tools"
+filename = "SimplyTools-1.19.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d2ac8042c6253614e03f10d8d12292e52c68a4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4111777
+project-id = 610058

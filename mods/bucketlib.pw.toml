@@ -1,0 +1,13 @@
+name = "BucketLib"
+filename = "bucketlib-1.19-1.0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "587c45533ac574464f2d42cd7a6dda17993a5ffd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3958247
+project-id = 560156

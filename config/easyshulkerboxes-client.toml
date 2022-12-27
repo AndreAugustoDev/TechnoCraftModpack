@@ -1,0 +1,14 @@
+#Show a tooltip for the item currently selected in a container item's tooltip next to the main tooltip, select a key required to be held to see that tooltip.
+#Allowed Values: NEVER, ALWAYS, SHIFT, CONTROL, ALT
+selected_item_tooltip_activation = "ALWAYS"
+#Color item inventories on tooltips according to the container item's color.
+colorful_tooltips = true
+#Render a white overlay or the hotbar selected item frame over the slot the next item will be taken out when right-clicking the container item.
+#Allowed Values: NONE, HOTBAR, HOVER
+slot_overlay = "HOVER"
+#Select a key required to be held for seeing item inventory contents, otherwise show them always.
+#Allowed Values: NEVER, ALWAYS, SHIFT, CONTROL, ALT
+tooltip_contents_activation = "ALWAYS"
+#Show an indicator on container items when the stack carried by the cursor can be added in your inventory.
+container_item_indicator = true
+

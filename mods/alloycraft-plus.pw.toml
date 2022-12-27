@@ -1,0 +1,13 @@
+name = "Alloycraft Plus"
+filename = "Alloycraft 1.19.2-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2dad8713c4da6498fa467908524373a13ce60a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4159593
+project-id = 715865

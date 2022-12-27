@@ -1,0 +1,13 @@
+name = "Magic Rings"
+filename = "Magic rings 5.2 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b79d3ea4718dfc9af2ac88cbfd4b06e65bead3d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4141688
+project-id = 517391

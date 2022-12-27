@@ -1,0 +1,13 @@
+name = "SilentGear Compat"
+filename = "SilentCompat-forge-1.19.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1dbf34eb403de4f89d8af2a9e708f8c458779897"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4094166
+project-id = 695453

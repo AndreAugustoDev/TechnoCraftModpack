@@ -1,0 +1,13 @@
+name = "Next Progression (Fabric & Forge)"
+filename = "Next_Progression-0.4.0-Forge-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "057a7b161d8b52ec42ddfc3a4416b19619982f33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4136082
+project-id = 715665

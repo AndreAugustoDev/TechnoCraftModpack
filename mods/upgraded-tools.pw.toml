@@ -1,0 +1,13 @@
+name = "Upgraded Tools"
+filename = "upgradedtools-1.19.2-2.1.0.2-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8671a831ece0376fbd9c83119954897fdbd6e06e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3999712
+project-id = 582411

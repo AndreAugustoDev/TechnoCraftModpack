@@ -1,0 +1,13 @@
+name = "Visual Workbench"
+filename = "VisualWorkbench-v4.2.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "439bd2a457982385640f4454883a53fb42c8e961"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3944861
+project-id = 500273

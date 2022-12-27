@@ -1,0 +1,110 @@
+{
+  "ToolValues": {
+  
+    "bone": {
+      "speed": 3,
+      "attackDamageBonus": 4,
+      "harvestLevel": 0,
+      "durability": 176,
+      "enchantmentValue": 17
+    },
+    "coal": {
+      "speed": 3.9,
+      "attackDamageBonus": 2,
+      "harvestLevel": 0,
+      "durability": 145,
+      "enchantmentValue": 17
+    },
+    "copper": {
+      "speed": 1.9,
+      "attackDamageBonus": 1,
+      "harvestLevel": 1,
+      "durability": 98,
+      "enchantmentValue": 10
+    },
+    "emerald": {
+      "speed": 8.2,
+      "attackDamageBonus": 7,
+      "harvestLevel": 2,
+      "durability": 1171,
+      "enchantmentValue": 35
+    },
+    "ender": {
+      "speed": 3.7,
+      "attackDamageBonus": 6,
+      "harvestLevel": 2,
+      "durability": 666,
+      "enchantmentValue": 10
+    },
+    "fiery": {
+      "speed": 4,
+      "attackDamageBonus": 6,
+      "harvestLevel": 1,
+      "durability": 127,
+      "enchantmentValue": 15
+    },
+    "glowstone": {
+      "speed": 3,
+      "attackDamageBonus": 4,
+      "harvestLevel": 1,
+      "durability": 123,
+      "enchantmentValue": 35
+    },
+    "lapis": {
+      "speed": 173,
+      "attackDamageBonus": 3,
+      "harvestLevel": 2,
+      "durability": 173,
+      "enchantmentValue": 20
+    },
+    "nether": {
+      "speed": 3.9,
+      "attackDamageBonus": 4,
+      "harvestLevel": 1,
+      "durability": 188,
+      "enchantmentValue": 66
+    },
+    "obsidian": {
+      "speed": 4.7,
+      "attackDamageBonus": 7,
+      "harvestLevel": 3,
+      "durability": 1337,
+      "enchantmentValue": 15
+    },
+    "paper": {
+      "speed": 1.8,
+      "attackDamageBonus": 0.0,
+      "harvestLevel": 0,
+      "durability": 13,
+      "enchantmentValue": 17
+    },
+    "prismarine": {
+      "speed": 6,
+      "attackDamageBonus": 6,
+      "harvestLevel": 2,
+      "durability": 225,
+      "enchantmentValue": 20
+    },
+    "quartz": {
+      "speed": 3.9,
+      "attackDamageBonus": 5,
+      "harvestLevel": 1,
+      "durability": 117,
+      "enchantmentValue": 18
+    },
+    "redstone": {
+      "speed": 173,
+      "attackDamageBonus": 3,
+      "harvestLevel": 2,
+      "durability": 173,
+      "enchantmentValue": 20
+    },
+    "slime": {
+      "speed": 5.2,
+      "attackDamageBonus": 7,
+      "harvestLevel": 1,
+      "durability": 123,
+      "enchantmentValue": 20
+    }
+  }
+}

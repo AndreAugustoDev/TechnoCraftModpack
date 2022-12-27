@@ -1,0 +1,13 @@
+name = "Golden Delight"
+filename = "GoldenDelight-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f907be03c83d231b956e82b33b769cc59b7ac8ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4259783
+project-id = 709707

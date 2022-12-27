@@ -1,0 +1,13 @@
+name = "Advanced Netherite"
+filename = "advancednetherite-1.14.6-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0332d1467a444e83408664aef54d9c80b250f9b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4219695
+project-id = 495336

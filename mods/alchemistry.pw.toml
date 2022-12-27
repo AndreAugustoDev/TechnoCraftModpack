@@ -1,0 +1,13 @@
+name = "Alchemistry"
+filename = "alchemistry-1.19.2-2.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70bd0c8f6ed3160e9d7b459d3fe3234e018ba2d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4128306
+project-id = 293425

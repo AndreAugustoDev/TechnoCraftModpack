@@ -1,0 +1,13 @@
+name = "World Name Randomizer"
+filename = "WorldNameRandomizer-FORGE-1.19.2-v1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "119547f4027a34cef9e615f7c76868e1f067d6bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4074642
+project-id = 348277

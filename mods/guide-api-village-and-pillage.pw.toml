@@ -1,0 +1,13 @@
+name = "Guide-API Village and Pillage"
+filename = "Guide-API-VP-1.19.2-2.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c9c71711fb61fc95ad51e5eeea0e30ce3e239e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3943296
+project-id = 380771

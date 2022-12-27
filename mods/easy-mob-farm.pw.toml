@@ -1,0 +1,13 @@
+name = "Easy Mob Farm"
+filename = "easy_mob_farm_1.19.2-4.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f577d21cf8993c2f6d5408cb80568bf2a9855ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4194244
+project-id = 563464

@@ -1,0 +1,13 @@
+name = "Deep Resonance"
+filename = "deepresonance-1.19-4.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8277d8e110ec738cef956606aba9ab8771d0ad9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4213028
+project-id = 233398

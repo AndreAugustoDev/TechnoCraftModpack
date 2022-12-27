@@ -1,0 +1,13 @@
+name = "Iron Furnaces [FORGE]"
+filename = "ironfurnaces-1.19.2-3.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1245362ff01635fe7770639039c268140b5d147b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4183321
+project-id = 237664
