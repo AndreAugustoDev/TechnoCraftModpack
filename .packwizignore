@@ -3,5 +3,6 @@
 
 # Exclude README
 /README.md
+/.github/*
 /config/byg/backups/*
 /config/almostunified/debug.json

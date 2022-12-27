@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "f663fc0cb3d8ce2bf754f250e2a145767ec0c5f46fab7f845f556805fcc37980"
-
-[[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "ed22a8214b8c187add7f017c8aafb313f7cb3179ea71277ee1aaf791bf7e5086"
 
