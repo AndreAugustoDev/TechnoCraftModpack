@@ -737,6 +737,10 @@ file = "config/betterdungeons-forge-1_19.toml"
 hash = "61bddf5e2cdd86d220a56c7e79de8f49a16b269294e859a884a318834009e6ab"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "8f6d89fc6cc71b37df66a2bd0f73fd66059314d910ee74f838cc88f8c0a28408"
+
+[[files]]
 file = "config/bettermineshafts-forge-1_19.toml"
 hash = "1d7adabcca64c0d0dca4494cfee67081cc2a3071e734594b2afe56559467211c"
 
@@ -3081,8 +3085,48 @@ file = "config/xnet-client.toml"
 hash = "83697e940c40810ce9408dbc6fa60400d84516d7871daf22bd94edf9faa4ae96"
 
 [[files]]
+file = "defaultconfigs/curios-server.toml"
+hash = "cc8fbeee5ff6927b406ea829936dec28d3da3501bec04362743adfee07f3b14e"
+
+[[files]]
+file = "defaultconfigs/forge-server.toml"
+hash = "e93a932976cd0f26acfaa15dad503654c4825ac0832b55ffa0e6248429017b06"
+
+[[files]]
+file = "defaultconfigs/jei-server.toml"
+hash = "a025570e49942fb1c805dc64f58032458a640bb3da4eb316532697f53ed1f90b"
+
+[[files]]
+file = "defaultconfigs/moredragoneggs-server.toml"
+hash = "f2571404c7941704677a99c1e0959bf75b9df183ab62dc8f81dfab551e648e68"
+
+[[files]]
+file = "defaultconfigs/okzoomer-sever.toml"
+hash = "a6d59652aa2ace5dea3670cac982c071737b0384506d04eaa57dc5db3e03d828"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "e2ac56be8d0566724ee4f6da7d6c66979eb69ada07f518458f3a5f553c07e14c"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
+hash = "e2ac56be8d0566724ee4f6da7d6c66979eb69ada07f518458f3a5f553c07e14c"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "e2ac56be8d0566724ee4f6da7d6c66979eb69ada07f518458f3a5f553c07e14c"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "9c408c449483cc343c13a8025e719f0f71143ace963ed50a5dc739f465daac82"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
+hash = "e2ac56be8d0566724ee4f6da7d6c66979eb69ada07f518458f3a5f553c07e14c"
+
+[[files]]
 file = "icon.png"
-hash = "ff11447c3fe6b9d00260818d0eb6b6b1f72546f62485e747b4c94b45590401f3"
+hash = "badc23096707cc40f34a01a098200ecdedca85db484ef174a637f15d2fd98878"
 
 [[files]]
 file = "keys.txt"
@@ -5485,18 +5529,13 @@ hash = "678aeeae6f993ca08ef2ba4a6587a590571ecccb2a46d9f64cd8211dae94abea"
 metafile = true
 
 [[files]]
-file = "mods/mod-name-tooltip.pw.toml"
-hash = "b14e718951c8003a40ce2bc4918109a1526302adc235553efa9208d67e09e07a"
-metafile = true
-
-[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "9ebfa0f30ebd694ec8b0e8e8c90611ce4bff95bb86ad09afe4392e42ed5dd2d6"
 metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "645ac6465b25fb4308034884728c84f96709b9d1ffb9057afc6f32c361e91147"
+hash = "ccc28f73fe589521eb76cc7723f2ad6706cd8ceb1038d083d5f3df93dad65f17"
 metafile = true
 
 [[files]]
@@ -5661,7 +5700,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "12c8e19093046f907d13564fc0c526c65dd02280cb4cf79f15a58807f6b91848"
+hash = "b0f90a0f1e494f3d164645409cbd7abf83c6a5840966eb09a83b4343278e980b"
 metafile = true
 
 [[files]]
@@ -5866,7 +5905,7 @@ metafile = true
 
 [[files]]
 file = "mods/rebornstorage.pw.toml"
-hash = "7915fe77e7e405abb72e865b9b212ff57ef507ced9f6cdf86b5dd52da8cde5d6"
+hash = "b713f39ffd65ff8fc4e058e56b517c026acc398d1e964b3eb95380333fc371f1"
 metafile = true
 
 [[files]]
@@ -6021,7 +6060,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "194967ae94f48e71524db90a4e59377599e4ae4abbb05bbdb60fdbf2d8ea3975"
+hash = "66ed53a036a9be2ccb8a9cd70b5a8eb9d2dcc4f88f22b681eec207312d2cb3b5"
 metafile = true
 
 [[files]]
@@ -6536,7 +6575,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7afac283c6e25c438b12f99986333afbafb3b283acf3083a4239dc9fa8386785"
+hash = "b783272bdb71af9ac7c672902a0c3dd3aedc80669525d79ad5021c6a94597d8c"
 
 [[files]]
 file = "resourcepacks/Xaero's Minimap - Mod Icons.zip"

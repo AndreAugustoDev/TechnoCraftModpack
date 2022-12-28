@@ -1,13 +1,13 @@
 name = "Reborn Storage"
-filename = "rebornstorage-1.19.2-5.0.1.jar"
+filename = "rebornstorage-1.19.2-5.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "43ec4b8cc9d22d34700e33e422d9c08fd50506e2"
+hash = "4cbb1664908c53d4f0e20b7e0aefdff2a9ae06a3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4275299
+file-id = 4275745
 project-id = 256662
