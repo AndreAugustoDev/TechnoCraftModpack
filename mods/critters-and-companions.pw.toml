@@ -1,13 +1,13 @@
 name = "Critters and Companions"
-filename = "crittersandcompanions-1.19.2-1.0.2.jar"
+filename = "crittersandcompanions-1.19.2-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "993c92a34dd28d83de3b5c8db68bfba28a3313ce"
+hash = "fe7c47fff8f380b9452fdfaea6fa40fbc2876382"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4132855
+file-id = 4283904
 project-id = 574913

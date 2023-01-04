@@ -1,13 +1,13 @@
 name = "Creeper Overhaul Firework"
-filename = "creeper_overhaul_firework-1.0.0.jar"
+filename = "creeper_overhaul_firework-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "57396a421ebc16269af1e331d7ba1bf55a8277f0"
+hash = "785a2770bc7830bf8d13b15bdadb064b6e4160e0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4000281
+file-id = 4293594
 project-id = 678681

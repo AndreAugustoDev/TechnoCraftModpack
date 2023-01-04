@@ -1,13 +1,13 @@
 name = "Scannable"
-filename = "scannable-1.19.2-forge-1.7.7+1e13ff1.jar"
+filename = "scannable-MC1.19.2-forge-1.7.7+dc5ea09.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b221515b48a95cc698f6ff82ff25d4c4e6a8b87f"
+hash = "1c4b3cea8e226973a1e39a9d7601cb6921255702"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3968305
+file-id = 4284889
 project-id = 266784

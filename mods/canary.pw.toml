@@ -1,13 +1,13 @@
 name = "Canary"
-filename = "canary-mc1.19.2-0.1.4.jar"
+filename = "canary-mc1.19.2-0.1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2d3b927ff519ed30eeaf2f821e8520cf7cb363cb"
+hash = "fb122b3c15ce71d9a614d21d64851cc5e3b07ec2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4260201
+file-id = 4291688
 project-id = 665658

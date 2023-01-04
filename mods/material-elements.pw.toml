@@ -1,13 +1,13 @@
 name = "Material Elements"
-filename = "material_elements_1.19.2-6.2.1.jar"
+filename = "material_elements_1.19.2-6.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "289d5e0bf3c6517e13c56c44ce9e738d0a8b13c2"
+hash = "466991a658033dbb353d8dd6010a19a1a45a89d9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4271198
+file-id = 4276976
 project-id = 541620

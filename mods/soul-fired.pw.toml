@@ -1,13 +1,13 @@
 name = "Soul fire'd"
-filename = "soulfired-1.19.2-1.1.0.0-forge.jar"
+filename = "soulfired-1.19.2-2.0.0.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d251da10a0e84621ec9c0447f9750711a3a5be1f"
+hash = "314d9e114e8eb433bf2be0681f9d880796792681"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4002958
+file-id = 4287456
 project-id = 662413
