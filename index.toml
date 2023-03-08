@@ -3910,11 +3910,6 @@ hash = "5cc0a4f6ccf235073422c83743bc709e770bc4c98458bb4f5c6f1170a04f50b8"
 metafile = true
 
 [[files]]
-file = "mods/project-689888.pw.toml"
-hash = "04614d672f426d2335e7f747dfe9107bd56574ff456025c2de8bdcd45a1a7891"
-metafile = true
-
-[[files]]
 file = "mods/project-expansion.pw.toml"
 hash = "8d84b0c78a76376f257b2e37bd47579f71df854901d6b735a628ec54fa186c72"
 metafile = true
