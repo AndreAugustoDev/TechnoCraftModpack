@@ -1,13 +1,13 @@
 name = "Create: Electric Stonks"
-filename = "create-electric-stonks-1.19.2-1.1.3.jar"
+filename = "create-electric-stonks-1.19.2-1.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c8d624af2a2d7429ba4c29e52e2ac3e43192feea"
+hash = "7c55aa04619783446672a38d6292595b608c79c9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4193149
+file-id = 4407445
 project-id = 709112

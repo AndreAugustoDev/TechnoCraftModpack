@@ -1,7 +1,21 @@
 {
   "version": "14.15",
-  "buildNumber": 355,
+  "buildNumber": 358,
   "loadlist": [
+    {
+      "name": "LocalSkin",
+      "type": "Legacy",
+      "checkPNG": false,
+      "skin": "LocalSkin/skins/{USERNAME}.png",
+      "model": "auto",
+      "cape": "LocalSkin/capes/{USERNAME}.png",
+      "elytra": "LocalSkin/elytras/{USERNAME}.png"
+    },
+    {
+      "name": "ElyBy",
+      "type": "ElyByAPI",
+      "root": "http://skinsystem.ely.by/textures/"
+    },
     {
       "name": "Mojang",
       "type": "MojangAPI",
@@ -19,11 +33,6 @@
       "root": "https://skin.prinzeugen.net/"
     },
     {
-      "name": "ElyBy",
-      "type": "ElyByAPI",
-      "root": "http://skinsystem.ely.by/textures/"
-    },
-    {
       "name": "SkinMe",
       "type": "UniSkinAPI",
       "root": "http://www.skinme.cc/uniskin/"
@@ -32,15 +41,6 @@
       "name": "TLauncher",
       "type": "ElyByAPI",
       "root": "https://auth.tlauncher.org/skin/profile/texture/login/"
-    },
-    {
-      "name": "LocalSkin",
-      "type": "Legacy",
-      "checkPNG": false,
-      "skin": "LocalSkin/skins/{USERNAME}.png",
-      "model": "auto",
-      "cape": "LocalSkin/capes/{USERNAME}.png",
-      "elytra": "LocalSkin/elytras/{USERNAME}.png"
     },
     {
       "name": "GlitchlessGames",

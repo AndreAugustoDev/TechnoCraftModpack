@@ -1,0 +1,13 @@
+name = "Mage Flame"
+filename = "MageFlame-mc1.19.2-f43.2.0-v1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bea01e38b5403f40bc4e750a81598929f6f1c93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4415444
+project-id = 817636

@@ -1,0 +1,13 @@
+name = "Perpetual Durability"
+filename = "perpetual_durability-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c902b47cdb445ba7d262305af16bd15dbd04202"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3932514
+project-id = 515925

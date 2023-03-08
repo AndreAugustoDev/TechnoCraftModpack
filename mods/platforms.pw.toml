@@ -1,13 +1,13 @@
 name = "Platforms"
-filename = "platforms-1.19-1.10.1.jar"
+filename = "platforms-1.19-1.10.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f2883df9558c63e7f9c01d6dbc833ce9fb7ca6de"
+hash = "87d92c56a27214f6ec1adefdf3ada930141cd51b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4055850
+file-id = 4311738
 project-id = 244786

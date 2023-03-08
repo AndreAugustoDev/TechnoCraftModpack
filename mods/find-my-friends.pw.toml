@@ -1,0 +1,13 @@
+name = "Find My Friends"
+filename = "findmyfriends-1.2.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4896a87955c4820da9ad670f3732a82bb0196ec3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4085247
+project-id = 557800

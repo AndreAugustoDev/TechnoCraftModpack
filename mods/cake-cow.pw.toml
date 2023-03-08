@@ -1,0 +1,13 @@
+name = "Cake Cow"
+filename = "Cake Cow 1.0.0 - 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f99559e8dabd84479995ca543c6046ef5a45e5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4412073
+project-id = 686920

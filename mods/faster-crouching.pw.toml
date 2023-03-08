@@ -1,13 +1,13 @@
-name = "Faster Crouching (Forge)"
-filename = "fastercrouching_1.19.2-1.0.jar"
+name = "Faster Crouching"
+filename = "fastercrouching-1.19.2-2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "07d8563c6f74b4e1dcb1456cdf47afdbfe14ade4"
+hash = "85abb064ef0431ae111c916265f9497de6bd33a7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4069076
+file-id = 4400125
 project-id = 697998

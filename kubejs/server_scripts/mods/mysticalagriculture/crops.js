@@ -1,6 +1,5 @@
 const CropRegistry = Java.loadClass('com.blakebr0.mysticalagriculture.registry.CropRegistry')
 
-const CropManualDisableList = []
 // sets the chance for a seed to drop
 const SecondarySeed = 0.01
 
@@ -31,20 +30,16 @@ ServerEvents.tags('item', event => {
 })
 
 ServerEvents.recipes(event => {
-  let JsonExport = { enabled: [], disabled: [], manual: [] }
+  let JsonExport = { enabled: [], disabled: [] }
   let CropRegistryInstance = CropRegistry.getInstance()
   let CropList = CropRegistryInstance.getCrops()
   for (const Crop of CropList) {
     let CropName = Crop.getName()
     if (Crop.isEnabled()) {
-      if (CropManualDisableList.includes(Crop.getName())) {
-        Crop.setEnabled(false)
-        JsonExport.manual.push(CropName)
-        continue
-      }
       JsonExport.enabled.push(CropName)
     } else {
       JsonExport.disabled.push(CropName)
+      event.remove({ id: `mysticalagriculture:seed/infusion/${CropName}` })
     }
   }
   JsonIO.write('kubejs/server_scripts/mods/mysticalagriculture/cropInfo.json', JsonExport)
@@ -89,6 +84,7 @@ ServerEvents.recipes(event => {
         if (SecondarySeed > 0) {
           drops.push({ chance: SecondarySeed, output: Ingredient.of(Crop.getSeedsItem()).toJson() })
         }
+        drops.push({ chance: 0.01, output: Ingredient.of("mysticalagriculture:fertilized_essence").toJson(), minRolls: 1, maxRolls: 1 })
         let category = `${Crop.getTier().getFarmland().getIdLocation().getPath().replace('_farmland', '')}`
         let cruxBlock = Crop.getCruxBlock()
         if (cruxBlock) {

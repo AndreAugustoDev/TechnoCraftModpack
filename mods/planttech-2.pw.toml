@@ -1,0 +1,13 @@
+name = "PlantTech 2"
+filename = "planttech2-0.02.56.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b365eb3e9655bd6e795f9337009394a693fa5902"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4015076
+project-id = 309830

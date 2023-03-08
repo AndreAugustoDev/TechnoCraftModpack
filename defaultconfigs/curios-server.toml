@@ -1,6 +1,3 @@
-
-#List of curio slot type settings
 [[curiosSettings]]
-	identifier = "ring"
-	size = 4
-
+ identifier = "ring"
+ size = 4

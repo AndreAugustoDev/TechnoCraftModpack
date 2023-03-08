@@ -1,0 +1,13 @@
+name = "Colorful Azaleas"
+filename = "ColorfulAzaleas-forge-1.19.2-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d9ee347a35e5f2faa028e1ca84e608a318fe218"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4422057
+project-id = 602536

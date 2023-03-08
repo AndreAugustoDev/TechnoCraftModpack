@@ -1,0 +1,13 @@
+name = "Lost Souls"
+filename = "lostsouls-1.19-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c891db6f2f7ca5256e04c1ce98b422c790abb87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4385156
+project-id = 271998

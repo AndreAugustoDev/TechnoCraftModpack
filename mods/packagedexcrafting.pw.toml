@@ -1,13 +1,13 @@
 name = "PackagedExCrafting"
-filename = "PackagedExCrafting-1.19.2-3.2.1.2.jar"
+filename = "PackagedExCrafting-1.19.2-3.2.1.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "06ede5783707447252f337f6df85995c89d24bf1"
+hash = "4d055c75c524cd3dffcfe96b916d889c39c68a5e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4110042
+file-id = 4421198
 project-id = 322861

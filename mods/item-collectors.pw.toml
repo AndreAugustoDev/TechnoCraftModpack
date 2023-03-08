@@ -1,13 +1,13 @@
 name = "Item Collectors"
-filename = "itemcollectors-1.1.6-forge-mc1.19.jar"
+filename = "itemcollectors-1.1.7-forge-mc1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fa9d6790f22c8a4a08dbad049275c8e73c1b55da"
+hash = "9a1438ccb727808011d53d1d6bfe06ffd88b9b8c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4291348
+file-id = 4388808
 project-id = 395620

@@ -1,0 +1,13 @@
+name = "project-689888"
+filename = "paragon-3.0.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f2e7cb3161b3fa2fc47a7d72d019ac7fd8273fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4162866
+project-id = 689888

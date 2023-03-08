@@ -1,13 +1,13 @@
 name = "Werewolves - Become a Beast!"
-filename = "Werewolves-1.19.2-1.1.0.0-beta.2.jar"
+filename = "Werewolves-1.19.2-1.1.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1be20cc3903402634c482f1c6bd584d4725c2f32"
+hash = "1036182a25076cbac6756e53140e6122dd7332ca"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4063070
+file-id = 4318648
 project-id = 417851

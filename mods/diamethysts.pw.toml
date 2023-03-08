@@ -1,0 +1,13 @@
+name = "Diamethysts!"
+filename = "diamethysts-1.6.2-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62d761514c2451935aee93052c07e36bd9671727"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4401596
+project-id = 606423

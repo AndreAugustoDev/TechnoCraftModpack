@@ -1,13 +1,13 @@
 name = "Nature's Aura"
-filename = "NaturesAura-37.4.jar"
+filename = "NaturesAura-38.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "428fdf4d20d11c2b3df50f9d2b6f9b511413cfe7"
+hash = "d1e0dcfdaddf7060e81256bd7f296c00d3f293e9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4012727
+file-id = 4419637
 project-id = 306626

@@ -1,13 +1,13 @@
-name = "TechnoCraft"
-author = "André"
+name = "TechnoCraft: Bainos"
+author = "André Augusto"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f133b62e101c8c0fe69d38342fe3ecfa335134da94d50775010c56cb4c9805c6"
+hash = "1b2607b01bbf22f2da4ea150698c1941bb795814df57ed864fc567f4c8e6bc5f"
 
 [versions]
-forge = "43.2.3"
+forge = "43.2.6"
 minecraft = "1.19.2"

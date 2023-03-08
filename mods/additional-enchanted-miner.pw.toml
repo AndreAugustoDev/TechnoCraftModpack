@@ -1,13 +1,13 @@
 name = "Additional Enchanted Miner"
-filename = "AdditionalEnchantedMiner-1.19.2-19.10.1.jar"
+filename = "AdditionalEnchantedMiner-1.19.2-19.10.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b4a699a7a51e5eddb253707b8f9ef0101b3df127"
+hash = "e48a743526736aab8dd6c1b555fd55d1f1a9b0e2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4216258
+file-id = 4418362
 project-id = 282837

@@ -1,13 +1,13 @@
 name = "Paragon (Fabric/Forge)"
-filename = "paragon-3.0.2-forge.jar"
+filename = "paragon-3.0.1-forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/M1720s8h/versions/BK3aVTKF/paragon-3.0.1-forge.jar"
 hash-format = "sha1"
-hash = "9f2e7cb3161b3fa2fc47a7d72d019ac7fd8273fa"
-mode = "metadata:curseforge"
+hash = "3529b08606707f63facaa61a47a57bce4969b323"
 
 [update]
-[update.curseforge]
-file-id = 4162866
-project-id = 689888
+[update.modrinth]
+mod-id = "M1720s8h"
+version = "BK3aVTKF"

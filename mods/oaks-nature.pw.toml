@@ -1,13 +1,13 @@
 name = "Oaks Nature"
-filename = "Oaks Nature v0.2.1 (1.19.2).jar"
+filename = "Oaks Nature v0.3.0 (Forge) (1.19.2).jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "319d06a9f6ec82f0c2396c18a327d3048632ebf3"
+hash = "a0f7753ae6ab8011034047d31bdba2bbb0afb20d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4124613
+file-id = 4378077
 project-id = 663065

@@ -1,0 +1,13 @@
+name = "Red’s More Structures [Fabric & Forge]"
+filename = "redstructure-1.0.6-forge-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61d7d29fb1e434855162432deac1bc69c91ef598"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4421280
+project-id = 656079

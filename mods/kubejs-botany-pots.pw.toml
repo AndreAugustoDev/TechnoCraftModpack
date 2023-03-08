@@ -1,0 +1,13 @@
+name = "KubeJS Botany Pots"
+filename = "kubejsbotanypots-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a5dfb0081e28905789d1a3c48027cb97b37ea2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4417066
+project-id = 832870

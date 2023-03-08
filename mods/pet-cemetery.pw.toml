@@ -1,0 +1,13 @@
+name = "Pet Cemetery"
+filename = "pet_cemetery-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a509c809dfb52c3ccf89ddeb97ddd1e37639794e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4424681
+project-id = 565160

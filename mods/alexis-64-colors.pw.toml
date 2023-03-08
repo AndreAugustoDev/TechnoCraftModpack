@@ -1,0 +1,13 @@
+name = "Alexis 64 Colors"
+filename = "Alexis_64_Colors_0.9.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f1e38447a586f8122210bf5dacef7fa5b8236ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4419093
+project-id = 538133

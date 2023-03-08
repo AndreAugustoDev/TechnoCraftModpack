@@ -1,12 +1,12 @@
 // list of items to not add to the Market
 let MarketBlackList = [
-  "twilightforest:time_sapling",
-  "twilightforest:mining_sapling",
-  "twilightforest:sorting_sapling",
-  "twilightforest:transformation_sapling",
-  "occultism:otherworld_sapling",
-  "occultism:otherworld_sapling_natural",
-  "ars_nouveau:magebloom_crop"
+  // "twilightforest:time_sapling",
+  // "twilightforest:mining_sapling",
+  // "twilightforest:sorting_sapling",
+  // "twilightforest:transformation_sapling",
+  // "occultism:otherworld_sapling",
+  // "occultism:otherworld_sapling_natural",
+  // "ars_nouveau:magebloom_crop"
 ]
 
 // List Gen
@@ -16,7 +16,8 @@ let MarketBlackList = [
     only should need to be run on mod changes,
     generates a new marketitems.json file
 */
-ServerEvents.commandRegistry(event => {
+ServerEvents.commandRegistry(event =>
+{
   const { commands: Commands, arguments: Arguments, builtinSuggestions: Suggestions } = event;
   event.register(
     Commands.literal("markethelper")
@@ -25,30 +26,37 @@ ServerEvents.commandRegistry(event => {
   )
 })
 
-function Market(source) {
+function Market(source)
+{
   let saplings = {}
   let seeds = {}
   let flowers = {}
   let taggedSeeds = Ingredient.of('#forge:seeds').stacks
-  taggedSeeds.forEach(seed => {
+  taggedSeeds.forEach(seed =>
+  {
     let mod = seed.idLocation.namespace
-    if (seeds[mod] == null) {
+    if (seeds[mod] == null)
+    {
       seeds[mod] = []
     }
     seeds[mod].push(seed.id)
   })
   let taggedSaplings = Ingredient.of('#minecraft:saplings').stacks
-  taggedSaplings.forEach(sapling => {
+  taggedSaplings.forEach(sapling =>
+  {
     let mod = sapling.idLocation.namespace
-    if (saplings[mod] == null) {
+    if (saplings[mod] == null)
+    {
       saplings[mod] = []
     }
     saplings[mod].push(sapling.id)
   })
   let taggedFlowers = Ingredient.of('#minecraft:flowers').stacks
-  taggedFlowers.forEach(flower => {
+  taggedFlowers.forEach(flower =>
+  {
     let mod = flower.idLocation.namespace
-    if (flowers[mod] == null) {
+    if (flowers[mod] == null)
+    {
       flowers[mod] = []
     }
     flowers[mod].push(flower.id)
@@ -58,10 +66,13 @@ function Market(source) {
 }
 
 // Datapack Gen
-ServerEvents.highPriorityData(event => {
+ServerEvents.highPriorityData(event =>
+{
   let market = JsonIO.read('kubejs/server_scripts/mods/farmingforblockheads/marketitems.json')
-  market.forEach((key, type) => {
-    type.forEach((mod, list) => {
+  market.forEach((key, type) =>
+  {
+    type.forEach((mod, list) =>
+    {
       let recipe = {
         modId: mod,
         silent: true,
@@ -73,12 +84,15 @@ ServerEvents.highPriorityData(event => {
         },
         customEntries: []
       }
-      list.forEach(item => {
-        if (!MarketBlackList.includes(item)) {
+      list.forEach(item =>
+      {
+        if (!MarketBlackList.includes(item))
+        {
           recipe.customEntries.push({ output: item })
         }
       })
-      if (recipe.customEntries.length == 0) {
+      if (recipe.customEntries.length == 0)
+      {
         recipe.group.enabledByDefault = false
       }
       event.addJson(`kubejs:farmingforblockheads_compat/${mod == 'minecraft' ? 'vanilla' : mod}_${key}.json`, recipe)

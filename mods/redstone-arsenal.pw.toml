@@ -1,13 +1,13 @@
 name = "Redstone Arsenal"
-filename = "redstone_arsenal-1.19.2-7.0.1.12.jar"
+filename = "redstone_arsenal-1.19.2-7.2.0.15.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ed4fd64109ec117f6cc5b4bcce5ced5e78eee364"
+hash = "736f3d115fa152d031239f41bbb621b9150a0885"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4121288
+file-id = 4382363
 project-id = 70631

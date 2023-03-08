@@ -13,9 +13,9 @@
 		#When enabled, the mod tries to protect your claimed chunks from other players. Workarounds are possible, especially with mods.
 		protectClaimedChunks = false
 		#The number of additional chunk claims that you can make on top of the normal limit.
-		bonusChunkClaims = 0
+		bonusChunkClaims = 512
 		#The number of additional chunk claim forceloads that you can make on top of the normal limit.
-		bonusChunkForceloads = 0
+		bonusChunkForceloads = 512
 
 		[playerConfig.claims.protection]
 			#When enabled, claimed chunk protection includes protection against players from the same party as you.
@@ -39,7 +39,7 @@
 			#1) Every - protected from all entities not owned by a player that has chunk access.
 			#2) Not Party - all entities, except owned by a player in the same party as you.
 			#3) Not Ally - all entities, except owned by a player in any party allied by yours.
-			blocksFromOther = 0
+			blocksFromOther = 3
 			#When enabled, instead of always simply using the direct "Protect Blocks From Mobs/Other" option for block interactions coming from non-player entities, if the entity (e.g. an arrow) has an owner (e.g. a player), then the block protection option corresponding to the owner is used (e.g. "Protect Blocks From Players").
 			#Chunk access is always tested against the owner, whether this is enabled or not.
 			blocksRedirect = false
@@ -238,7 +238,7 @@
 			xpPickup = 0
 			#Override the value of the vanilla "mob griefing" game rule with either block, entity or dropped item protection in the protected chunks and their neighbors.
 			#By default, all "mob griefing" game rule checks, except for evokers (sheep conversion spell) and for most item pickups, are overridden with the block protection option. By default, the game rule is not overridden for item pickups (e.g. piglins picking up gold) because the basic item protection is already enough for most cases. When using the Forge version of the mod, this can be used for modded mobs. The main server config can be used to change which options are checked (even all 3) for specific mobs. Fabric/Quilt does not fire an event for all mob griefing rule checks. Fabric/Quilt modded mobs would simply check the game rule directly, which cannot be overridden by this mod.
-			overrideMobGriefingRule = false
+			overrideMobGriefingRule = true
 			#When enabled, claimed chunk protection disables the natural spawning of hostile mobs.
 			naturalSpawnHostile = false
 			#When enabled, claimed chunk protection disables the natural spawning of friendly mobs.
@@ -313,6 +313,12 @@
 						Zombies = 0
 
 					[playerConfig.claims.protection.exceptionGroups.entity.droppedItemAccess]
+						#When enabled, claimed chunk protection makes an exception for dropped item access by the following entities: minecraft:villager. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the item access.
+						#
+						#1) Party - players or entities owned by players in the same party as you.
+						#2) Allies - players or entities owned by players in parties that are allied by yours.
+						#3) Every - all players/entities.
+						Villagers = 0
 						#When enabled, claimed chunk protection makes an exception for dropped item access by the following entities: minecraft:piglin. If the dropped item protection is based on the mob griefing rule check, then the claimed neighbor chunks must also allow the item access.
 						#
 						#1) Party - players or entities owned by players in the same party as you.
@@ -432,7 +438,7 @@
 			enabled = true
 			#When enabled, the chunks you have marked for forceloading stay loaded even when you are offline (can significantly affect server performance!).
 			#If your forceload limit is affected by your FTB Ranks rank/permissions, then you need to login at least once after a server (re)launch for it to take effect while you are offline.
-			offlineForceload = false
+			offlineForceload = true
 
 	[playerConfig.parties]
 		#When not empty, used in some places as the name for the parties that you create.
@@ -440,9 +446,9 @@
 		#When enabled, your position in the game is shared with players from the same party as you, which can be used by other mods, e.g. to display party members on a map.
 		shareLocationWithParty = true
 		#When enabled, your position in the game is shared with the mutual ally parties of the party that you are in, which can be used by other mods, e.g. to display party members on a map.
-		shareLocationWithMutualAllyParties = false
+		shareLocationWithMutualAllyParties = true
 		#When enabled, the sharable positions of players from the same party as you are shared with your game client, which can be used by other mods, e.g. to display party members on a map.
 		receiveLocationsFromParty = true
 		#When enabled, the sharable positions of players from the mutual ally parties of the party that you are in are shared with your game client, which can be used by other mods, e.g. to display allies on a map.
-		receiveLocationsFromMutualAllyParties = false
+		receiveLocationsFromMutualAllyParties = true
 
