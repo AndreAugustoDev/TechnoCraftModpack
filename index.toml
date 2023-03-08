@@ -3245,11 +3245,6 @@ hash = "53ebc3130e0d4c210d930b47e8be2ccd5f3221c7e4b6490d14e408f2a3ebdb3d"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "f2526b02e5bf3c45d1c34452d8e77c210a57a8eedd3a13bf5031c97b247a3e59"
-metafile = true
-
-[[files]]
 file = "mods/jumbo-furnace.pw.toml"
 hash = "e13c76323efe1dc757141df89684f77aeab26bb266e9c2fb829003210f63694f"
 metafile = true
