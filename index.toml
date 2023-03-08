@@ -2460,11 +2460,6 @@ hash = "2cbd283101bf9523b97bb711df7a2e2dda115fa537d9ac25993f9485988ef6b7"
 metafile = true
 
 [[files]]
-file = "mods/create-mechanical-spawner.pw.toml"
-hash = "7ceab5cd02bec9cedb062558ac18056f62630f7d4653b24a6f667fc96b73c0f2"
-metafile = true
-
-[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "7be5cf4c5c109930c0475f8544fe28dd212a65918652a6a1e40319e82933ef2d"
 metafile = true
