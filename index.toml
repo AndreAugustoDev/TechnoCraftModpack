@@ -3572,11 +3572,6 @@ hash = "43a7fbf6982c12ca82686a1859ddcdb207d44dd5882682830c9a5c081f83d0f7"
 metafile = true
 
 [[files]]
-file = "mods/model-gap-fix.pw.toml"
-hash = "9ebfa0f30ebd694ec8b0e8e8c90611ce4bff95bb86ad09afe4392e42ed5dd2d6"
-metafile = true
-
-[[files]]
 file = "mods/modernworldcreation.pw.toml"
 hash = "e462fb5b0ad131e7c6f9fd1928c2b63a588a301ef002e96fe73997208c00d2e2"
 metafile = true
