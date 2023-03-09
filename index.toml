@@ -2998,7 +2998,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "d215688d4ce040cb22645b61151ac9dc989c9765e9827e918a0cd4cb4cd39e76"
+hash = "891a0e3b8b2690fedc5e21152769430af1fa606e2d957239ef80b58d3f9befdd"
 metafile = true
 
 [[files]]
@@ -3443,12 +3443,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "33403c389f24da10df20c769fedfd08866712bd173ef9c916dc4e33e444f127b"
+hash = "b2d7d550238a9224ad82f0db86e9dcb0b038eaa91f5a7d563bdca6887f3d8c52"
 metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "85e9b8f568b9db744ffabf4d9e31ba4e1f57d7fdf4a1fd5f90a8e7cb24033611"
+hash = "ccae58379e56d3148c08a27bcd825b1c7f50c984f7d970d5235dae638b3b4f51"
 metafile = true
 
 [[files]]
@@ -3703,7 +3703,7 @@ metafile = true
 
 [[files]]
 file = "mods/night-config-fixes.pw.toml"
-hash = "d6ce77ab4a683119525ccd8a07b7e08816ae4b8eb4457bd74c9cee5dfb72bef6"
+hash = "e37d53a9c839b8214624879d08ad8860ef57323aff637fef63ca45f17c233b13"
 metafile = true
 
 [[files]]
