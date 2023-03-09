@@ -3277,6 +3277,11 @@ hash = "53ebc3130e0d4c210d930b47e8be2ccd5f3221c7e4b6490d14e408f2a3ebdb3d"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "f2526b02e5bf3c45d1c34452d8e77c210a57a8eedd3a13bf5031c97b247a3e59"
+metafile = true
+
+[[files]]
 file = "mods/jumbo-furnace.pw.toml"
 hash = "e13c76323efe1dc757141df89684f77aeab26bb266e9c2fb829003210f63694f"
 metafile = true
@@ -3289,6 +3294,26 @@ metafile = true
 [[files]]
 file = "mods/just-another-void-dimension.pw.toml"
 hash = "a1185c3d894314f4624e3c50c3ead60a1263063190cc22713309528eb24207ed"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "595c00e6f8965618fec09388fabf557eea9c862db818b55e5e13e550a785045f"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-immersive-multiblocks.pw.toml"
+hash = "56904744466d783e1f30b2c48532f16928e01df110e1c801397d544840abba73"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "413806f003b9c9b62f701d97aaf128534618d25c3fda27505e1543b44fe20f79"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "6b8846119c8c1a4adc35658e04ea48b4d86ca31a268bb85fe7c5af6182bfc128"
 metafile = true
 
 [[files]]
@@ -4109,26 +4134,6 @@ metafile = true
 [[files]]
 file = "mods/roots-classic.pw.toml"
 hash = "fc0b52d97b0d922a568838efd6ada93d810bc573182f58dbbddb90c0eb56c342"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "ac1e6ea25f54175b05b4cd981744271c26db29f470c00c54f9d71d1b3a56bb17"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "5f1ea337a3b54e92140141abe3de054195b7171c7a0072db01d7c276a24260c8"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "71db7ec1dc4a671e856c3b73e6ee017945a4df3c177dd7149a54a33b684b3466"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-trades.pw.toml"
-hash = "7d3c1de559ed73b86c31c27aefdd5cec7c91fcb69b580c1b3400c04f43b9ed58"
 metafile = true
 
 [[files]]
