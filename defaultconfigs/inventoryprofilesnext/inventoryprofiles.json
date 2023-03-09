@@ -4,6 +4,7 @@
             "value": false
         },
         "highlight_foused_items_foreground": false,
+        "enable_updates_check": false,
         "first_run": false
     },
     "GuiSettings": {
@@ -11,6 +12,11 @@
             "value": false
         },
         "show_continuous_crafting_checkbox": {
+            "value": false
+        }
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_empty_hotbar_as_semi_locked": {
             "value": false
         }
     }

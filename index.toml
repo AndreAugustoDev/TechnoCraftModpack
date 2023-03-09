@@ -238,7 +238,7 @@ hash = "386846705c34eb3e93a6e56c906250243db817e59c4d7a50a45fff1d08ccaa9b"
 
 [[files]]
 file = "config/guideapi_vp-common.toml"
-hash = "1f6cec131d2e08d65163eefa0374b5d54eb71c7228b4cebfd02c09fd1178088d"
+hash = "61ed3f8d0696bdfb9b0c26571bfa6d7838e71127193a56643605a3ee7a1edb7f"
 
 [[files]]
 file = "config/ic2c/ic2.cfg"
@@ -266,7 +266,11 @@ hash = "1c614d1c521fa75954bf96ac58057902e240d85b8402a232bb84191e38809280"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "229b8316dcf22630a4cac1e86c09f872508596bf69479de8d6e98ab337e5594b"
+hash = "4286dc99459bb625f82323d8bc56a04368812bb2b90846c5110f24cc6797d701"
+
+[[files]]
+file = "config/ironfurnaces-client.toml"
+hash = "d44fd16fe0696438f3f4367459ae66742ddd496ad2dcf214d4f6b2a3e084c458"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -309,12 +313,24 @@ file = "config/paxi/resourcepacks/ae2wtlib_ae2_style_crafting_terminal.zip"
 hash = "b6815e04d2d27aed93e72a1e262ccb315b3d1d9862e0ad24aec367c7b39d4e4c"
 
 [[files]]
+file = "config/project-expansion.toml"
+hash = "140f1106fec915d88f68fb485e9f57a55a897ddaedd0110559da5808bfb38e09"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "6f553552997d2886531f0bd85d116bcc151442334bc9c31ca75735df01ca90b0"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "2154a790f33410c4adce6308b0ff06af9e9c5bec323eb61e4f5b7171cf211e1a"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "6076a566ea7df60b3eeb28410a5b90e0ba19b6f209ffee076e02e680d1243d7e"
+
+[[files]]
+file = "config/rubidium_extras.toml"
+hash = "fe851b9ef384c3a4f934b50681bf83bbf691338b384e5abb16513c18a3b5bf69"
 
 [[files]]
 file = "config/securitycraft-client.toml"
@@ -606,7 +622,7 @@ hash = "386846705c34eb3e93a6e56c906250243db817e59c4d7a50a45fff1d08ccaa9b"
 
 [[files]]
 file = "defaultconfigs/guideapi_vp-common.toml"
-hash = "1f6cec131d2e08d65163eefa0374b5d54eb71c7228b4cebfd02c09fd1178088d"
+hash = "61ed3f8d0696bdfb9b0c26571bfa6d7838e71127193a56643605a3ee7a1edb7f"
 
 [[files]]
 file = "defaultconfigs/ic2c/ic2.cfg"
@@ -634,7 +650,11 @@ hash = "1c614d1c521fa75954bf96ac58057902e240d85b8402a232bb84191e38809280"
 
 [[files]]
 file = "defaultconfigs/inventoryprofilesnext/inventoryprofiles.json"
-hash = "229b8316dcf22630a4cac1e86c09f872508596bf69479de8d6e98ab337e5594b"
+hash = "4286dc99459bb625f82323d8bc56a04368812bb2b90846c5110f24cc6797d701"
+
+[[files]]
+file = "defaultconfigs/ironfurnaces-client.toml"
+hash = "d44fd16fe0696438f3f4367459ae66742ddd496ad2dcf214d4f6b2a3e084c458"
 
 [[files]]
 file = "defaultconfigs/jade/jade.json"
@@ -697,12 +717,24 @@ file = "defaultconfigs/paxi/resourcepacks/ae2wtlib_ae2_style_crafting_terminal.z
 hash = "b6815e04d2d27aed93e72a1e262ccb315b3d1d9862e0ad24aec367c7b39d4e4c"
 
 [[files]]
+file = "defaultconfigs/project-expansion.toml"
+hash = "140f1106fec915d88f68fb485e9f57a55a897ddaedd0110559da5808bfb38e09"
+
+[[files]]
 file = "defaultconfigs/quark-common.toml"
 hash = "6f553552997d2886531f0bd85d116bcc151442334bc9c31ca75735df01ca90b0"
 
 [[files]]
 file = "defaultconfigs/roughlyenoughitems/config.json5"
 hash = "2154a790f33410c4adce6308b0ff06af9e9c5bec323eb61e4f5b7171cf211e1a"
+
+[[files]]
+file = "defaultconfigs/rubidium-options.json"
+hash = "6076a566ea7df60b3eeb28410a5b90e0ba19b6f209ffee076e02e680d1243d7e"
+
+[[files]]
+file = "defaultconfigs/rubidium_extras.toml"
+hash = "fe851b9ef384c3a4f934b50681bf83bbf691338b384e5abb16513c18a3b5bf69"
 
 [[files]]
 file = "defaultconfigs/securitycraft-client.toml"
@@ -1936,7 +1968,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "27f7d8717daf931f1295fac200904bdfee985936a427b4ef4a286ddd34308594"
+hash = "b39a32b2f2e427716bb7e6380a8416c139a1b9ba7c193d86b768f40128e1ac98"
 metafile = true
 
 [[files]]
@@ -2016,7 +2048,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "a238c683e3f7f93fde0b692b72b5ec88de51e139b0303c6ce01ead7efeadbd12"
+hash = "ca5775104714b3a090e713fc649cef3985007eea5eb1b4ddf49407dbeae10acb"
 metafile = true
 
 [[files]]
@@ -4321,7 +4353,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "3ce6d6aaad4360e547b94f2d2a5b86576e66cdab848d55ce4d3e2f5ac08abca7"
+hash = "753749579d66cb2f858f82e79184d619fdc61b8ef30b924851ce600cdd5e963d"
 metafile = true
 
 [[files]]
