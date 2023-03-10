@@ -2288,7 +2288,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "eb4cc2c53b6ad5714b65e9750d66a70ec5f1ec699668b34002131b802afcf440"
+hash = "49df310464d2139145a2514b09b50cc575ebaf386ee3ce61e384c85f860363b7"
 metafile = true
 
 [[files]]
@@ -2678,7 +2678,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
-hash = "0c746a8b0e79f0740165f19e49fc6c3a705cfeb83729c69d002665994e60e3b2"
+hash = "91ffbc9061dc65a1c8d4d967f4a7d4eb024dc3fe3386a31065ee084d7f48d4b8"
 metafile = true
 
 [[files]]
@@ -2998,7 +2998,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "891a0e3b8b2690fedc5e21152769430af1fa606e2d957239ef80b58d3f9befdd"
+hash = "82c1016ddee7c3c8dad7cb60e84fb9f7c1a99ca20c203bceebba9833a4c1d83f"
 metafile = true
 
 [[files]]
@@ -3498,12 +3498,12 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "d6f1a3016d5872617d13a5acc352a12a495d4ba220d6f1378bb677bada6deb21"
+hash = "3b3a6c30fd702aca559be1bb374a1026b50cd07325e428ea3b1a8c2c33ae5a98"
 metafile = true
 
 [[files]]
 file = "mods/majrusz-library.pw.toml"
-hash = "a1c46e9028e3102e1153be9e1ef48f3e234bdd881d3eacc49448536b62d74d69"
+hash = "b8ff7e11c90fd636aff73843a3c88322e1a2ee7b6a58c1edb00e3e7ca8d411a6"
 metafile = true
 
 [[files]]

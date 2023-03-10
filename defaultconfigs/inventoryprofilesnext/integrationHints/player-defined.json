@@ -6,6 +6,10 @@
             },
             "SETTINGS": {
                 "horizontalOffset": -6
+            },
+            "SORT": {
+                "horizontalOffset": -12,
+                "bottom": 12
             }
         }
     }
