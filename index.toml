@@ -1953,7 +1953,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "bc1b7f060c140925e7d572a123a64fd6846d71ad2ab1a7b20b8c474a007b775d"
+hash = "42877e322e7df61d5d13a23073524be974493c87b9f20d1f7a6f9ac78610d595"
 metafile = true
 
 [[files]]
@@ -2038,7 +2038,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "ee3dd775e60662fb8565f2b8fc3fac954d42fe7246ec5f3e827011863a978722"
+hash = "a33f941fc49859480dad693cbd215a74c222b9c180fceba293de960bbe31dbc9"
 metafile = true
 
 [[files]]
@@ -2308,7 +2308,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "cfb881c96cbb3440e2a1a9d8030170615e48fccd368ecd0935abcbac6dc058c7"
+hash = "b226ec42099d76e0790bd8a780ff08fa979bf5c21d3f0e3412f710c9e6d0cfd6"
 metafile = true
 
 [[files]]
@@ -2348,7 +2348,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ccc1d0a939761a51fe3117c2e18c817eec3b8fbf9dc85946ba9bba4fac7a4a96"
+hash = "752ceddc274652f5245f7ec08f8287a6e2ab957d894b0d3350412ff0d9e9bccc"
 metafile = true
 
 [[files]]
@@ -2848,7 +2848,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-crafting.pw.toml"
-hash = "ea5438cdef0d9214374cccd5d162c1881083925b34189970457592c0bfcf55a9"
+hash = "428c8eb7b9508af5c5a175aeffecb33d2f1eb2aeefd6cdf92bdd912ee3b5a921"
 metafile = true
 
 [[files]]
@@ -2983,7 +2983,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "68ffae45121468e8205b8be4d2d67b723928de3ffb1aeda068eea3d6c9d246e0"
+hash = "bda73a1d97e537c127c41709488634518d8759bb7ab7de7444b9c9260d3fe20e"
 metafile = true
 
 [[files]]
@@ -3603,7 +3603,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "b563a1e551ca494f50a916448fa1a8ac2b7889badbf8615651280cfb90251d43"
+hash = "488afd6fda16ec100bac0e0b6e0cb8d0a0f266036ab97874e390d84ebbd1a909"
 metafile = true
 
 [[files]]
@@ -3843,7 +3843,7 @@ metafile = true
 
 [[files]]
 file = "mods/perpetual-durability.pw.toml"
-hash = "db6a0df4f211d7eb1222bf714bf62382b06dcbac1450dd819e7ab268aaa701f2"
+hash = "f003922657f0a6cd80939e0c757da078032cfff34c71f772cecdb6ceef5cf2a3"
 metafile = true
 
 [[files]]
@@ -4178,7 +4178,7 @@ metafile = true
 
 [[files]]
 file = "mods/sebastrnlib.pw.toml"
-hash = "7bed3967b35eacba766906ce8bd76aefeb9aa3f86616795fc57c663666ac9ba2"
+hash = "8bd06b0803e7a21fbe6c287828128665ee753661cd7253f8653df3fd4654804a"
 metafile = true
 
 [[files]]
@@ -4188,7 +4188,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "84585b4c9a920f09bc05628df49aa9541c21637b99c4dd068c1d3501395c4af6"
+hash = "d0abada2d852dd7506dce478ec8d81d24a8e82cbfe6013a29ed53d4cfabf41ac"
 metafile = true
 
 [[files]]
@@ -4348,7 +4348,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "753749579d66cb2f858f82e79184d619fdc61b8ef30b924851ce600cdd5e963d"
+hash = "1ec46b1d1ed3312d8cca03df6c0df8d19bda70af4808c75e3d86ca0420c177a2"
 metafile = true
 
 [[files]]
@@ -4673,7 +4673,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1bbc6e7c7b2a7aa3844ad2971f37f0ac4cb954accd0ab19d74c84552142014ad"
+hash = "18783640b807e54d93d08e5c4e3f6a3b4c7e10455107cfd362f8aca20f2f6027"
 metafile = true
 
 [[files]]
