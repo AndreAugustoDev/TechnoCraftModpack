@@ -508,7 +508,7 @@
 			x: 2.5d
 			y: 5.5d
 			description: [
-				"The &9Structure Compass&r can help you locate structures in the world, just like the &eNature's Compass&r!"
+				"The &9Explorer's Compass&r can help you locate structures in the world, just like the &eNature's Compass&r!"
 				""
 				"Shift+Right-clicking with the compass in hand will bring up a menu of structures to search for."
 			]
@@ -516,7 +516,11 @@
 			tasks: [{
 				id: "423F9BB8DC7962F6"
 				type: "item"
-				item: "structurecompass:structure_compass"
+				item: {
+					id: "explorerscompass:explorerscompass"
+					Count: 1b
+					tag: { }
+				}
 			}]
 			rewards: [
 				{
