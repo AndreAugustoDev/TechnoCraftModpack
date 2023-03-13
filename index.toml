@@ -3927,11 +3927,6 @@ hash = "a0b717e012441e2bef8d9c1b7222dd9b25adf06d55ace1144eabf3ee6f637733"
 metafile = true
 
 [[files]]
-file = "mods/portable-tables.pw.toml"
-hash = "6b7afb70eee52ee2a74b761b24a5c3c8230f0920fb9d25d8aa6c72ada560c4eb"
-metafile = true
-
-[[files]]
 file = "mods/potionsmaster.pw.toml"
 hash = "f24d6998599f6dda5f0c10b2c9a97d30c85c92047b49e3b6da42d5ffd55e6d41"
 metafile = true
