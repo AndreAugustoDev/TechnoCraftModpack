@@ -1,0 +1,13 @@
+name = "Portable Tables"
+filename = "portabletables-forge-1.19.2-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95d69783de823b812df09bf7edab633facac2377"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4431809
+project-id = 544671

@@ -2348,7 +2348,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "752ceddc274652f5245f7ec08f8287a6e2ab957d894b0d3350412ff0d9e9bccc"
+hash = "21d96efbb73ceb5a75b39e0efb18f62eb8bf024776a28516e082a2b6f657d0a2"
 metafile = true
 
 [[files]]
@@ -2434,11 +2434,6 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
-metafile = true
-
-[[files]]
-file = "mods/crafting-on-a-stick.pw.toml"
-hash = "84e86761b5b8ef7090cadc7204924b119ea293b874a110d526e314bd7e041aaf"
 metafile = true
 
 [[files]]
@@ -2613,7 +2608,7 @@ metafile = true
 
 [[files]]
 file = "mods/daves-potioneering.pw.toml"
-hash = "f032471b1b570e9ae8daf0a842d53b5e2a368712f24ff18f13982707c992a2d1"
+hash = "b76312d1e37ab8e348492f51f9cbb29d0bb40c4db7f4c4d3a2ef7ae0a8dcbd0c"
 metafile = true
 
 [[files]]
@@ -3123,7 +3118,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers.pw.toml"
-hash = "94864cedff27bb7eeca9624a8b53db7483180f06e0fd71b49bf24603181efdca"
+hash = "90ec3d18448874a15af83c1eefee4296b324292eb4b7d1f23a97922f7187e116"
 metafile = true
 
 [[files]]
@@ -3178,7 +3173,7 @@ metafile = true
 
 [[files]]
 file = "mods/incapacitated.pw.toml"
-hash = "5ecd9548607665e268fb088b7d58b62d1fc9430c2d23cab5158b93ce600a0259"
+hash = "495b52559cbeaf6e81813e95fe34958379fc2f5bb1c107f1d0eb709157345b2c"
 metafile = true
 
 [[files]]
@@ -3273,7 +3268,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "42a7d4840c97d0c5edbeace9ae52190b1cbdfb583be783ea4e0aa6e0b28ef6b6"
+hash = "2b7ad9503a31d7b4be0f53b8d5b07761983646646fda873c7277b04982f5ecfb"
 metafile = true
 
 [[files]]
@@ -3283,7 +3278,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f2526b02e5bf3c45d1c34452d8e77c210a57a8eedd3a13bf5031c97b247a3e59"
+hash = "e650e0a0179c4878980dba815366b3b7e017a7b4f65cb5d6138bae6d02bac065"
 metafile = true
 
 [[files]]
@@ -3413,7 +3408,7 @@ metafile = true
 
 [[files]]
 file = "mods/liquid-burner.pw.toml"
-hash = "2e887edabb5db6adfc7d58a7fec3d77dbe83aa348119c01ded9968250ff691eb"
+hash = "de2abcda50684d335d55f0387197ab7d054f95339609aea0742a396e05584376"
 metafile = true
 
 [[files]]
@@ -3773,7 +3768,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "3b0d303b893d4e138945c1ec27ef3be149b92428e5ca2a95f27cd5175e6c2e29"
+hash = "aefac9661624bb54c207546b69d92da28e63e526e7bfcddc155c120bae7a29b6"
 metafile = true
 
 [[files]]
@@ -3932,6 +3927,11 @@ hash = "a0b717e012441e2bef8d9c1b7222dd9b25adf06d55ace1144eabf3ee6f637733"
 metafile = true
 
 [[files]]
+file = "mods/portable-tables.pw.toml"
+hash = "6b7afb70eee52ee2a74b761b24a5c3c8230f0920fb9d25d8aa6c72ada560c4eb"
+metafile = true
+
+[[files]]
 file = "mods/potionsmaster.pw.toml"
 hash = "f24d6998599f6dda5f0c10b2c9a97d30c85c92047b49e3b6da42d5ffd55e6d41"
 metafile = true
@@ -4078,7 +4078,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "2effba3685e429b77d27b57cbe2c6ba52ce4b4f3e2e72d4e739318856c20d372"
+hash = "2c251e84540e0f8f6d8ddedff16e1de0bfa5420f141435e68c2894f09de6925b"
 metafile = true
 
 [[files]]
@@ -4158,7 +4158,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "545399ccf884998e012217b479d33e278a634b46a9e1a350f90aa2d9aba428d5"
+hash = "c840c91f3a3388d341c4822ce21c4e9bb89375f2b564ecef77c7c10fe2e60bd5"
 metafile = true
 
 [[files]]
@@ -4303,7 +4303,7 @@ metafile = true
 
 [[files]]
 file = "mods/soul-fired.pw.toml"
-hash = "8c58f8208442dd8e9aa6403c5c4db70703c7c345a6c408b101d9f8a4c6e934ea"
+hash = "40759396693d0c3eacda41b17edd89b13aea4dde4579db8b47cc0604f270a6a6"
 metafile = true
 
 [[files]]
