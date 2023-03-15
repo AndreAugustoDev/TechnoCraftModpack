@@ -1867,7 +1867,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "020796d5be168a36a66948726ed14821c6a3b152700e82153e4c1287a69c868f"
+hash = "5a0d3501bfc33baed245ac72b7bf15cb9d11f51c9080f9f1390bf67729c29f50"
 metafile = true
 
 [[files]]
@@ -2152,7 +2152,7 @@ metafile = true
 
 [[files]]
 file = "mods/baubley-heart-canisters.pw.toml"
-hash = "e9a89faedd426ed07a0822529f5b8d5be9379b62ad71eeba373f60a859b0027b"
+hash = "807d571499cd572494cad6d4e7801ca974e5a36075abdf742fb32d6ba70f4730"
 metafile = true
 
 [[files]]
@@ -2367,7 +2367,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "3598302cd41b6ad5e541c4892b20c1fb869f795a786c03213eabb5384c4265dd"
+hash = "f39a43f60ab78de5c1173558944e71682af0d8b3f6b901068b665db07716259f"
 metafile = true
 
 [[files]]
@@ -2727,7 +2727,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-crawl.pw.toml"
-hash = "7a40ab29c315c42ceab40121258e2f6dd76b4d57437386f2601d40f9293b35f9"
+hash = "d30f94aab18d9ad671e52d77c8b9b081c46d9084a7e8177d03b4723e1e094a4e"
 metafile = true
 
 [[files]]
