@@ -1,13 +1,13 @@
 name = "Advanced Netherite"
-filename = "advancednetherite-1.14.6-1.19.2.jar"
+filename = "advancednetherite-1.14.7-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0332d1467a444e83408664aef54d9c80b250f9b7"
+hash = "f69b6631bcd490a48b8ade016225db25320d3c23"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4219695
+file-id = 4438333
 project-id = 495336

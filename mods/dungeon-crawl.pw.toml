@@ -1,13 +1,13 @@
 name = "Dungeon Crawl"
-filename = "DungeonCrawl-1.19-2.3.11.jar"
+filename = "DungeonCrawl-1.19.3-2.3.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "96992034738da9a06899e220c164db7ef25d974f"
+hash = "8e5b4636270a60b4ced9e99f2066e4bfe660dddc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3875588
+file-id = 4437216
 project-id = 324973

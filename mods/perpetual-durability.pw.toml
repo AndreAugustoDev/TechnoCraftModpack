@@ -1,13 +1,13 @@
 name = "Perpetual Durability"
-filename = "perpetual_durability-1.19.2-2.0.0.jar"
+filename = "perpetual_durability-1.19.2-2.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6df9e391285bd37d64d39cdfadcea10a2121a308"
+hash = "b8f3481b5d6798c9e136eaea5301eec402625520"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4430627
+file-id = 4435742
 project-id = 515925
