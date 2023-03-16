@@ -1,0 +1,13 @@
+name = "Easy Hammers"
+filename = "easyhammers-1.19.2-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3b4d2887ca8fffb245c81b979d89b9bbefe304a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4347115
+project-id = 484665

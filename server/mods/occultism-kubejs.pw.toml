@@ -1,0 +1,13 @@
+name = "Occultism KubeJS"
+filename = "occultism_kubejs-1.19.2-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd67630d5135ddb7189666f38ff7c74e9ba5cb62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4014969
+project-id = 525693

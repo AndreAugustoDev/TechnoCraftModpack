@@ -1,0 +1,13 @@
+name = "TechnoCraft: Baianos"
+author = "André Augusto"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dee09ad2356adbe202896cec50226553e3149ea6a5a256a982a28295906a957d"
+
+[versions]
+forge = "43.2.6"
+minecraft = "1.19.2"

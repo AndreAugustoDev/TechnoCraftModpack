@@ -1,0 +1,13 @@
+name = "Glass Harvesters"
+filename = "glasscutter-1.19-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "054bbdc332ca670e5e2c3099937c47efc11954d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3846862
+project-id = 368921

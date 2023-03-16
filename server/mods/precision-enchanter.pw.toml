@@ -1,0 +1,13 @@
+name = "Precision Enchanter"
+filename = "precisionenchanter-1.19.2-1.0.0-rc2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7cedbc83041b6ca90515ecdffd47daf83236699a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4391062
+project-id = 822680

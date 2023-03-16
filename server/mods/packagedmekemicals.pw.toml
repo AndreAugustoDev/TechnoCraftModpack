@@ -1,0 +1,13 @@
+name = "PackagedMekemicals"
+filename = "PackagedMekemicals-1.19.2-1.1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f6087bab40ef4d4a73a2b5bf278708fdd5be013"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4374500
+project-id = 609886

@@ -1,0 +1,13 @@
+name = "Eyes In The Sky"
+filename = "Eyes-In-The-Sky-1.19-v1.1.1-Forge-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtiJu8LG/versions/puRbNs2O/Eyes-In-The-Sky-1.19-v1.1.1-Forge-Fabric.jar"
+hash-format = "sha1"
+hash = "06ee71d380dcab3e9ef3d4d025e81ea242331547"
+
+[update]
+[update.modrinth]
+mod-id = "AtiJu8LG"
+version = "puRbNs2O"

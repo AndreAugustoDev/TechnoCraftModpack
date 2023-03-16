@@ -1,0 +1,13 @@
+name = "MoreVanillaArmor"
+filename = "MoreVanillaArmor-1.19.1-4.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d5621bd940e98b41d95776df7735a438561ba29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3920014
+project-id = 350955

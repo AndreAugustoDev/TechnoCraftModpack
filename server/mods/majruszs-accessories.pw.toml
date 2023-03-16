@@ -1,0 +1,13 @@
+name = "Majrusz's Accessories"
+filename = "majruszs-accessories-1.19.2-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6752a72ab3ffbf0a68834cdd5063285a455c519a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4419574
+project-id = 494475

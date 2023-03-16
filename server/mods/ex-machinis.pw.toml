@@ -1,0 +1,13 @@
+name = "Ex Machinis"
+filename = "exmachinis-1.19.2-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b68c4c239d25cedb313df3b4e20649b9a3eac69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4332496
+project-id = 631523

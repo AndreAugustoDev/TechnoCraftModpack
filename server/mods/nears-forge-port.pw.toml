@@ -1,0 +1,13 @@
+name = "Nears (Forge Port)"
+filename = "nearsport_forge1.19.2_BETA1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ffd38a16a8188b549ed53b22ca00eeef3d7e23a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4104474
+project-id = 702357

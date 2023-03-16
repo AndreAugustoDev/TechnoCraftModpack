@@ -1,0 +1,13 @@
+name = "XyCraft"
+filename = "XyCraft Core-0.5.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79d757cc4ca9347c6b59ce3f51da92d82c5beb96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4054125
+project-id = 653786

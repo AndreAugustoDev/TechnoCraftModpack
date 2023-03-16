@@ -1,0 +1,13 @@
+name = "Spatial Harvesters [FORGE]"
+filename = "spatialharvesters_Forge-0.11.13c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "176486d49721dc8e1b46e23d2bf85ca42c5f42be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3934317
+project-id = 401744

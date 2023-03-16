@@ -1,0 +1,13 @@
+name = "Roost Ultimate"
+filename = "roost_ultimate-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42353da04aca8376fda53195cd57e4e93d753c38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4397931
+project-id = 621910

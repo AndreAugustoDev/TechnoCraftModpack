@@ -1,0 +1,13 @@
+name = "Fruit Jar [Forge & Fabric]  "
+filename = "Fruit Jar -1.1.0 1.19.2 [Forge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cfe638d9eefb8abc17139e2e8ffe06cc96971d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4418576
+project-id = 828397

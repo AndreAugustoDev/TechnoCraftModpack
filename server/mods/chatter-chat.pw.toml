@@ -1,0 +1,13 @@
+name = "Chatter Chat"
+filename = "Chatter_v1.3.0_for_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a5b9980f36d6ccaa195f31ffb1aaa4b5c804ff8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4126825
+project-id = 700172

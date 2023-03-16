@@ -1,0 +1,13 @@
+name = "Golden Additions"
+filename = "GoldenAdditions-1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11db1b037d9a7355030c5e509381a1105ae24ddc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4411441
+project-id = 709707

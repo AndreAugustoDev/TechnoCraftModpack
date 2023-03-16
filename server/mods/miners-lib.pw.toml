@@ -1,0 +1,13 @@
+name = "Miner's Lib"
+filename = "miners-lib-1.19.2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "152d06172e0c88b16362529f2105fb893252da38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4028647
+project-id = 628228

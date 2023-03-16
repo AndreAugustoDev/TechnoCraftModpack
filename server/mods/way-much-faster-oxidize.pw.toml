@@ -1,0 +1,13 @@
+name = "Way Much Faster Oxidize"
+filename = "way_much_faster_oxidize-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce0979d8ed98984737707ab64617fa93d8c9760a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3960069
+project-id = 664889

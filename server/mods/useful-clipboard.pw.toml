@@ -1,0 +1,13 @@
+name = "Useful Clipboard"
+filename = "UsefulClipboard-1.19.2-0.0.24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43556a0535e42ecc5587524889f68d0ad0f09424"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4416611
+project-id = 664224

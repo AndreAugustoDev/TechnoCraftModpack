@@ -1,0 +1,13 @@
+name = "Diamethyst Arrows"
+filename = "diamethyst_arrows-1.0.7-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42db45a5814388d0802addefc2e7a37cf07474bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4424025
+project-id = 630519

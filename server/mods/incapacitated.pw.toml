@@ -1,0 +1,13 @@
+name = "Incapacitated"
+filename = "incapacitated-1.19.2-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d13824443c68d611e4b75f046a4b8c933dc7d8ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4432641
+project-id = 528135

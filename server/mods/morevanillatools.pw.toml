@@ -1,0 +1,13 @@
+name = "MoreVanillaTools"
+filename = "MoreVanillaTools-1.19.1-5.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac6d548ba3a0453914bb9319a3b6a72e78a7b93c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3920012
+project-id = 349504

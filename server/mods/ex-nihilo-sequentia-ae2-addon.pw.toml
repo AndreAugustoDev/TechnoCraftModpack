@@ -1,0 +1,13 @@
+name = "Ex Nihilo: Sequentia - AE2 Addon"
+filename = "ExNihiloAE-1.19.2-4.1.0.52-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89cded30bd055d388681d4e94946c1fb21e02e59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4314724
+project-id = 428204

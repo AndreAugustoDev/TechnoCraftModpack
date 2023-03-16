@@ -1,0 +1,13 @@
+name = "All The Compatibility"
+filename = "AllTheCompatibility-1.19.2-(v.1.9.3) .jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc666af4af10e3fc23cfed508fb772822a239ef3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4112703
+project-id = 560350

@@ -1,0 +1,13 @@
+name = "Steve's Vanilla"
+filename = "Steve's_Vanilla_v0.5.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c98cb844e58c084f912dc2edd39753acca1dc728"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4120701
+project-id = 531442

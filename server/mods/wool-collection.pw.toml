@@ -1,0 +1,13 @@
+name = "The Wool Collection"
+filename = "woolcollection-forge-1.19-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6794856ed5fce2f0807879b45c9caab188a3ffd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4401460
+project-id = 821255

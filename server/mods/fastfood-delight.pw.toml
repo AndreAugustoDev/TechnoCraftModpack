@@ -1,0 +1,13 @@
+name = "FastFood Delight"
+filename = "fastfooddelight-1.19-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8db12a5cc5f4bb9c63d7bcc7e6fdc67f51406c5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4121540
+project-id = 714075

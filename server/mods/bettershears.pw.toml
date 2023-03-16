@@ -1,0 +1,13 @@
+name = "Better Shears 3"
+filename = "bettershears3-1.19.2-3.1.6_RELEASE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "052ffd36501a42ec1701ec8356c1f18c8f55b194"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4422094
+project-id = 305563

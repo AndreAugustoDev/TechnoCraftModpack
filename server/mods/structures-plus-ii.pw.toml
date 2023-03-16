@@ -1,0 +1,13 @@
+name = "Structures Plus II"
+filename = "Structures Plus II 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56bf4403a6946562b7eac92bb786c358de6fc67a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4111332
+project-id = 511058
