@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "../mods/betterf3.pw.toml"
-hash = "542a647e3896384f3cd04c4ea2006bb927ab355cd85f8205af45f32f9e2aa13c"
-metafile = true
-
-[[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "a433d33d56b6c6bbad423b94be1e1298dbf149b07bda559e4d11d90a260321dc"
 
