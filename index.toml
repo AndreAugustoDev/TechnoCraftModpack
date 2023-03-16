@@ -1922,7 +1922,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "a218a82a7d3021dccb815be8247772f6ba096c77d5ebdc0a541a572e4600ab82"
+hash = "faba440c9dd8ebd1cec00884a2d1ef0ebb5cb9fd1b6da18b590f86ed01ebe8f5"
 metafile = true
 
 [[files]]
@@ -2557,7 +2557,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
-hash = "7be5cf4c5c109930c0475f8544fe28dd212a65918652a6a1e40319e82933ef2d"
+hash = "428245286799988d56b8a190d066c012df5e35e6b37bcb30920299e64f3b08bc"
 metafile = true
 
 [[files]]
@@ -2587,7 +2587,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "2790a0d8717b5a6b09ac956ff547734fd6194223f464573e84813e7a443656fa"
+hash = "f34f82264fa68b8835a32e8f6ed507bd1cd2944a10cc566358ae2351e7b29437"
 metafile = true
 
 [[files]]
@@ -2742,7 +2742,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
-hash = "91ffbc9061dc65a1c8d4d967f4a7d4eb024dc3fe3386a31065ee084d7f48d4b8"
+hash = "63f2540070b5808be8902ec21855ef596aabdfa4c08f8576975480544c604921"
 metafile = true
 
 [[files]]
@@ -2962,7 +2962,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-scrolling.pw.toml"
-hash = "e3e3b53574d1180cb09e61d31ee5a9adf977d39a7132280980a0d38acb8540d6"
+hash = "0b3d05f5f9cbd41fae5c6d268531db42739be2a535cfd24e8486e7d2488635f0"
 metafile = true
 
 [[files]]
@@ -3047,7 +3047,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "bda73a1d97e537c127c41709488634518d8759bb7ab7de7444b9c9260d3fe20e"
+hash = "a95cb512b1693032596f4a1d56642f492e7b2c76ac79c103d6270b079c155809"
 metafile = true
 
 [[files]]
@@ -3077,7 +3077,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "9985600713a699c940c7b202ff6b5594cc4cfbba78af24c2c899338184a71050"
+hash = "30800f89601d48dda6a2fe21505f116b4b7c04460f6c0b9cf0f1b8f195380361"
 metafile = true
 
 [[files]]
@@ -3191,6 +3191,11 @@ hash = "fd225c9042ebda3d29eb4cef5994f2f79a38bc17c0e4883085e5c88b9c5ab76c"
 metafile = true
 
 [[files]]
+file = "mods/hand-over-your-items.pw.toml"
+hash = "9ebe517ed79c7e7e8d65c4a9386d0e814491c9cb614501fcc6a25d8c80c73593"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "4638b07d166445da41d0f17e4300592be3592c4b62214081197794bd577443e4"
 metafile = true
@@ -3257,7 +3262,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "5ebdef9afadcf66f8476409e9d76e0373c9a692e1d442583367d2f9273c36bb3"
+hash = "f78a6d7af43dd818948c10ec8af88a37036a18bf60aee693e2c57802ea83cb3d"
 metafile = true
 
 [[files]]
@@ -3377,7 +3382,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "6b8846119c8c1a4adc35658e04ea48b4d86ca31a268bb85fe7c5af6182bfc128"
+hash = "8cd8efa283704967d31332f10ef446867ebe7d1d534ba554e117bf326d77a22a"
 metafile = true
 
 [[files]]
@@ -3387,7 +3392,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "c4632cec1c9ff649ed970f755d4e1bd66c52ac74cfb2bb58899899d32cef0d58"
+hash = "78a4fb37d653cbe548d840c7d394447b441506e46e388c7f221efc531aef7d59"
 metafile = true
 
 [[files]]
@@ -3397,7 +3402,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "c097a4165a61f279c1ccc200356869896b665c27023e8fe5008e29018ceb0ff0"
+hash = "ee1ee7a327ab99accfd09c935272f85188fee63aa0e77807b9dea39067f5a3dc"
 metafile = true
 
 [[files]]
@@ -4287,7 +4292,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "107ad1dbb303cc6ea8cc201d8cec5d869977cb64d5925e62e10a88b02d73b2bf"
+hash = "51c55a998de136df53067e1c0c73ddcf1d1e8d7927939d6280095d6b59f87025"
 metafile = true
 
 [[files]]
@@ -4527,7 +4532,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "da0c5b2b1b540c14f94cd1c787aeaed7e6addf108e9c468a5143e8a99436021c"
+hash = "fea56873d7bb8cc9f19ab4a2401dfa23c69cf63e0febd37211ec034523d79f74"
 metafile = true
 
 [[files]]
@@ -4732,7 +4737,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "18783640b807e54d93d08e5c4e3f6a3b4c7e10455107cfd362f8aca20f2f6027"
+hash = "c3cb6a3d47679a9e0e9e7c95107bb33b42d305a46ad4a1a4e4f2c0f2f4a6b788"
 metafile = true
 
 [[files]]
