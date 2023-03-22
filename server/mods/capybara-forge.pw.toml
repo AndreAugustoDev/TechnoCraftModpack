@@ -1,0 +1,13 @@
+name = "Capybara [Forge]"
+filename = "capybaramod-0.0.2-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cff2816a968a0c1a95315f82f06ae04aae77d7c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4238760
+project-id = 746467

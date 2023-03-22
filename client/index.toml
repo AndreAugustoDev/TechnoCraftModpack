@@ -2338,8 +2338,8 @@ hash = "06f9136bcf52ef7ed253a4ad094a2c78855223dfb67c8afd5cd41da9570f9362"
 metafile = true
 
 [[files]]
-file = "mods/capybara-s-mod-by-jota1102.pw.toml"
-hash = "029b1ee9d8fa764f8f929c227ff150aa10d1f7fa6e33cff6d543df9bf02c8ca1"
+file = "mods/capybara-forge.pw.toml"
+hash = "7a249f37aafbf5265f167aaa8cc2c3485236848140e8f91ab61aa04cede61117"
 metafile = true
 
 [[files]]
@@ -3424,7 +3424,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "15ac90b9d6a33be822fb757fcb857f4ecb0159618ce5dd6beac65b11cad34048"
+hash = "032758ed8a02b63082679d823a35c714df9fefd3e877e2db2831e0533fe4d8a1"
 metafile = true
 
 [[files]]
@@ -3445,6 +3445,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-botany-pots.pw.toml"
 hash = "8d059311ea45779e32b8be1b479dcc6b210b4f8ece63928d6d1b4a01f6764dd3"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-thermal.pw.toml"
+hash = "bdbf1baa54176fbdcf5258e0c09212cdb760fee8bd72515576a865120f19f453"
 metafile = true
 
 [[files]]
@@ -4055,6 +4060,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "c79097b737bb6fdafbec02ebf933427f30efd635747957266a0dd785328ed3cc"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "db0ed46989906ad2cbfe933626cb9ded8b93eb169e2fa09dfae1cf200b1b295c"
 metafile = true
 
 [[files]]
