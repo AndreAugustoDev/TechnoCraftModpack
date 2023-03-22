@@ -2509,7 +2509,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "659b5812420462f1d64bd4ddfbd221b655be1745bea22ecf7c408b402ea89af5"
+hash = "9b24b055291bcfab10c0d38ffabfa2b29372d570851169d060eb068aaf28068e"
 metafile = true
 
 [[files]]
@@ -3919,12 +3919,12 @@ metafile = true
 
 [[files]]
 file = "mods/packagedauto.pw.toml"
-hash = "71b19e4d9611953137b4bd905cda729fc9b3b95ff218e9fbe78420a11afa91c1"
+hash = "53998ce6ade799eb62845c7d52f6f0d9f7fe96002c0f16ed21b2759785e67954"
 metafile = true
 
 [[files]]
 file = "mods/packagedexcrafting.pw.toml"
-hash = "1a5901bb454848ef051babd7c9dc658e7ba766e0426013c89b3f59be7cfc3390"
+hash = "aca64845dee7758a5b1befea4f04891b36523a83db207ec590403553435b9236"
 metafile = true
 
 [[files]]
@@ -4174,7 +4174,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "c1318b2e17bc72fe0a1a9d1dcc778f2e34ab27e9093c77d78f4314d0edcec5ec"
+hash = "b551987417640fee1dd523b43db90757bbc0377be7638fff3b0d76a6b7785c93"
 metafile = true
 
 [[files]]
@@ -4459,7 +4459,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "12c9b670add5aa30e76ceef64cdcbf6a4691c7fbaa4f47b7fd745eda7b1ed35a"
+hash = "23992875d41da7c3f4530e1134aaecc2b38b5394813a42b0cda5c68312d748a1"
 metafile = true
 
 [[files]]
