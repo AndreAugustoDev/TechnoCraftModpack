@@ -1,13 +1,13 @@
 name = "PackagedAuto"
-filename = "PackagedAuto-1.19.2-3.2.1.9.jar"
+filename = "PackagedAuto-1.19.3-3.3.1.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "91c7f48d4a4874473629e31dae60f0351fd13eed"
+hash = "6ab657db50dfecbc4d4dd06fee88831629ff212f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4420220
+file-id = 4449691
 project-id = 308380

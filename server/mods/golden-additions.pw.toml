@@ -1,13 +1,13 @@
 name = "Golden Additions"
-filename = "GoldenAdditions-1.9.jar"
+filename = "GoldenAdditions-2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "11db1b037d9a7355030c5e509381a1105ae24ddc"
+hash = "e1c81ff00796dc7cceb05801d2836d1db927e404"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4411441
+file-id = 4443876
 project-id = 709707
