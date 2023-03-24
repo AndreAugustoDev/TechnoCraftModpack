@@ -1,13 +1,13 @@
 name = "Voluminous Energy"
-filename = "VoluminousEnergy-1.19-0.4 Alpha 2.jar"
+filename = "VoluminousEnergy-1.19-0.4 Alpha 2a.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c1bfae38f5e58dcd76792f09c32751f9958ee92f"
+hash = "cc1c3c95e11e837f24c9ab0a4bee0cc89cd5dac5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4421641
+file-id = 4452580
 project-id = 416704

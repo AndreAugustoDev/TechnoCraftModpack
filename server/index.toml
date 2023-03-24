@@ -1896,7 +1896,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "a9ca0c62411aff48b03e314920cea2b6d68aff42fabbb4781b1832979463f367"
+hash = "5edb236d9a852059bc4abae2219903c4db30837897ac0bee60734bf498a5708d"
 metafile = true
 
 [[files]]
@@ -2051,7 +2051,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "24765090bedbb6fdb3a3dd48df830e4f97b00c717e1f63d541ef3f00799bdf47"
+hash = "6ca90bf914b24517e0b6b3596490f28f1dc3757dd28a1243f5e5d8ede316cc30"
 metafile = true
 
 [[files]]
@@ -2246,7 +2246,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "3c2fba20d539f791363589ce997f9d50e3a86c9d4cc4581e259f57102104db6a"
+hash = "9a6946b0cd05c9e574731b95105d6ff8f020a7ce64b61798aef745e451ffa562"
 metafile = true
 
 [[files]]
@@ -3261,7 +3261,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "a6e8f8bfe71a57560b55ea4329422db95acaabeb1c5bcd1b6fd2e10f0d67eb81"
+hash = "f3a1626d48c76e7440f6133e114847216d228b88fce631d28e7c8289d2a8f523"
 metafile = true
 
 [[files]]
@@ -3406,7 +3406,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-wine.pw.toml"
-hash = "ad9cdf8ea7334d6b95f09aeaa57baf924fc70a7ca1c9f83616d42c3e70934019"
+hash = "751e71db2ac5d705d120cd002533e5dbb364a4d106f66c6dd3f3e14a7985a840"
 metafile = true
 
 [[files]]
@@ -3416,7 +3416,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "854cb9f31d256c07720cfa8fce8fd19ef0477a27f4dd88f1403bc102984b7345"
+hash = "1444d40cc37f43dbbd733beb1f0be5c6730f6ff6d42e6739db77fc6b702378f1"
 metafile = true
 
 [[files]]
@@ -3626,7 +3626,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "b67e3d4d7a7303cb8b716b76576a23ae5f93398e2b4b5afa9045587c16d40771"
+hash = "2db3ca22b3f396e51cf7b9ffeb3ded08a4164da15853b3b409c13a36ffb14911"
 metafile = true
 
 [[files]]
@@ -3746,7 +3746,7 @@ metafile = true
 
 [[files]]
 file = "mods/next-progression.pw.toml"
-hash = "cc5c2a70d577852c7ac6c4850bd287ce5164b7b91b90ad25c76fdd0a766dbb7a"
+hash = "a0793aafa506af3c5848d76085af6008d1894fcdc007b788a9ff1b21b22cc4a9"
 metafile = true
 
 [[files]]
@@ -3901,7 +3901,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "147e4b537c61350cf5736868390c7595024a0c0c0e35f1c89e79a95a2797d1ef"
+hash = "e6da4b32eaf7fb4ea61b2c0d66b816b19bef704385378c4125975a0b08a008e1"
 metafile = true
 
 [[files]]
@@ -3951,7 +3951,7 @@ metafile = true
 
 [[files]]
 file = "mods/precision-enchanter.pw.toml"
-hash = "6a853c079e140d60012873a4617e9bcc23c1118e3fcfba8ca11ecea7bdca2583"
+hash = "2c7bac043916f9dc6a5ccbc0345f286ad512aadd84db79a678e09d76be36782e"
 metafile = true
 
 [[files]]
@@ -4196,7 +4196,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "9df82f2a34dfda42ad5da2f477444f464591f311cd6f4be84aec89f0654552fc"
+hash = "2df917143b031695da6786d532186337e752d49a8fb1d5d125388d51926324db"
 metafile = true
 
 [[files]]
@@ -4471,7 +4471,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "fea56873d7bb8cc9f19ab4a2401dfa23c69cf63e0febd37211ec034523d79f74"
+hash = "c93a9b813333bc7a4e324ed0ed473c154b677cc0607771e3620ce53abc2f4ddb"
 metafile = true
 
 [[files]]
@@ -4596,7 +4596,7 @@ metafile = true
 
 [[files]]
 file = "mods/voluminous-energy.pw.toml"
-hash = "76b5d144c8e05d7d88099585114150b32dc66bb3f41f18f73ae92a8e4c9f5214"
+hash = "159ceb46bd851341414569efb98dbf7ded5d32ff7aece44fab3067c5fa98130f"
 metafile = true
 
 [[files]]
@@ -4676,12 +4676,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c3cb6a3d47679a9e0e9e7c95107bb33b42d305a46ad4a1a4e4f2c0f2f4a6b788"
+hash = "520c7c09187b9dc9ac86a70a8eb3560abedd81faae17fadc6c4c2cb382cb9e0d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2ea36a77ae338748902688917b85b2765b5f1961fa971575e1c7e56c81ea9207"
+hash = "10ef049149e45745683321f9dee247515359b6142c79f0f7bca796bed4b4a410"
 metafile = true
 
 [[files]]
