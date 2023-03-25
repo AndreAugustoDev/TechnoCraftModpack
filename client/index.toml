@@ -1649,10 +1649,6 @@ file = "kubejs/data/occultism/recipes/miner/vibranium_nugget.json"
 hash = "a9633daa3b8bcc8cc09b629d6ba5d098b932235ff370a2426c22eda8c653b17a"
 
 [[files]]
-file = "kubejs/data/sebastrnlib/advancements/grant_book_on_first_join.json"
-hash = "79f59b7f622e18979378ebaffc61265bd1021d319adbfaee516c3451ba220678"
-
-[[files]]
 file = "kubejs/data/twilightforest/loot_tables/structures/graveyard.json"
 hash = "594a8c51062daf8feef678d537794867f6bc8ba61b4c0d62b053928443f23867"
 
@@ -1875,10 +1871,6 @@ hash = "49527a7e1f3e8d3b99171cdfa956e098d13ba6d418002baf62720d923b2b2328"
 [[files]]
 file = "kubejs/startup_scripts/custom_additions.js"
 hash = "587489580b9ce7160eb82141770e9bf3ded3df62e3b286d8b2363dc4ea0f60ca"
-
-[[files]]
-file = "kubejs/startup_scripts/mysticalagriculture.js"
-hash = "13abaaee5eb72f53ce7955f659a57206e2650f0b2ebf8fa46987cba06dd0b6c1"
 
 [[files]]
 file = "kubejs/startup_scripts/settings.js"
@@ -2489,7 +2481,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wand.pw.toml"
-hash = "5201fe192d0ed308d48dacbc3cfbcc2895354b0a69bccc0daabba34c64c467c0"
+hash = "ea50ffe105662eb20c7cdcad6c4a2f5643813716391649f2e134db94a6bb2e31"
 metafile = true
 
 [[files]]
@@ -4274,7 +4266,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "54b6094b3a5c5ef5d861e78f37edc0c58cdbb8f27ae4e90e65ce5e9144a0b3f7"
+hash = "e6c7f72579cfbb5eb293376130bde9df4603bf7c859d609cb5cee3e8a47ad0e1"
 metafile = true
 
 [[files]]
@@ -4464,7 +4456,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "1ec46b1d1ed3312d8cca03df6c0df8d19bda70af4808c75e3d86ca0420c177a2"
+hash = "b6085150a1fa5f104f1b2719139213c400d213706654b4299f9871f2913eb168"
 metafile = true
 
 [[files]]
@@ -4694,7 +4686,7 @@ metafile = true
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
-hash = "c33d2e09db0fb704ebb06b52fab35cc66c6783c7bb2e8a8046bea22317aae12b"
+hash = "bdd551d0e696e24e37a921136a7b15abe6d2a0916baf7218ab1c8a736a23e60b"
 metafile = true
 
 [[files]]
