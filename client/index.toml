@@ -3733,6 +3733,11 @@ hash = "c1aeb4d4ed3bdf3b5dd660ce46a3c297ae59612036ff5a8d58e500cf8ac443fd"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "497e6c718cf709aca5a2284e0eb666dcb09f5e78dfe105f66e4a8f1a8971cca7"
+metafile = true
+
+[[files]]
 file = "mods/more-dragon-eggs.pw.toml"
 hash = "344c2e73fa3dfd6101d30884e2e03cb012a5f4f05d7a21b2986ad0924ecf084e"
 metafile = true
@@ -4300,11 +4305,6 @@ metafile = true
 [[files]]
 file = "mods/security-craft.pw.toml"
 hash = "e92aab27854455dcd7f063340f08b5233d09f4dde976613e845d19613ab8d5a7"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "2df917143b031695da6786d532186337e752d49a8fb1d5d125388d51926324db"
 metafile = true
 
 [[files]]
